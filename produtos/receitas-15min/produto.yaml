@@ -1,0 +1,43 @@
+# ============================================================
+# produto.yaml — Landing Factory · Destrava Co.
+# 1 pasta por produto em /produtos/{slug}/produto.yaml
+# Campos "SUBSTITUIR" precisam de valor real antes do deploy.
+# ============================================================
+
+produto:
+  slug: receitas-15min          # vira a URL: lp.destravaco.com.br/receitas-15min/
+  nome: 20 Receitas Rápidas até 15 Minutos
+  linha: cozinha                # corpo | cozinha | bolso | rotina | garra | mente | casa
+                                # a paleta travada da linha é aplicada sozinha no build
+
+pagina:
+  kicker: PDF gratuito
+  titulo: 20 receitas rápidas para dias corridos
+  subtitulo: Todas prontas em até 15 minutos, com ingredientes simples de mercado. Deixe seu e-mail e receba o PDF agora.
+  beneficios:
+    - 20 receitas completas, do preparo ao prato
+    - Todas pensadas para caber em até 15 minutos
+    - Ingredientes simples, sem lista de mercado gourmet
+  botao: Quero receber as receitas
+
+form:
+  whatsapp: false               # true = mostra campo WhatsApp (opcional, nunca obrigatório)
+  consentimento: Aceito receber o PDF e e-mails da Destrava Co. Posso me descadastrar quando quiser.
+
+mailerlite:
+  grupo_id: "190110238297294044"   # ID numérico do grupo "Receitas - Destrava 21"
+                                # descobrir: MailerLite > Integrations > API > Groups
+                                # ou: curl -s -H "Authorization: Bearer $TOKEN" "https://connect.mailerlite.com/api/groups?filter[name]=Receitas"
+
+entrega:
+  metodo: automacao_mailerlite  # o e-mail de boas-vindas do grupo entrega o PDF (fluxo já validado)
+  pdf_url: "Entrega via automação MailerLite (grupo Receitas - Destrava 21) — não é link direto"  # referência para o teste, NÃO aparece na página
+
+obrigado:
+  titulo: Confira seu e-mail
+  texto: O PDF com as 20 receitas está chegando na sua caixa de entrada. Se não aparecer em alguns minutos, olhe em Promoções ou Spam e arraste a mensagem para a caixa principal.
+
+legal:
+  empresa: Destrava Co.
+  endereco: "São Paulo/SP"
+  politica_url: "https://destravaco.com.br/privacidade/"    # URL da Política de Privacidade publicada — pré-requisito de go-live (Bloco C)

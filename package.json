@@ -1,0 +1,14 @@
+{
+  "name": "landing-factory",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "playwright test tests"
+  },
+  "dependencies": {
+    "js-yaml": "^4.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}

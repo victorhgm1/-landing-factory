@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{OBRIGADO_TITULO}} · {{EMPRESA}}</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--campo:{{CAMPO}};--wash1:{{WASH1}};--acento:{{ACENTO}};--creme:{{CREME}};--ink:{{INK}}}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--wash1);line-height:1.6;min-height:100vh;display:flex;flex-direction:column}
+  main{flex:1;display:flex;align-items:center;justify-content:center;padding:48px 24px}
+  .card{background:#fff;max-width:480px;padding:40px 30px;border-radius:14px;box-shadow:0 10px 30px rgba(26,26,23,.10);text-align:center}
+  .check{width:56px;height:56px;border-radius:50%;background:var(--campo);color:var(--creme);font-size:26px;line-height:56px;margin:0 auto 18px}
+  h1{font-family:Lora,serif;font-weight:600;font-size:30px;color:var(--campo);margin-bottom:8px}
+  .traco{width:44px;height:3px;background:var(--acento);border:0;border-radius:2px;margin:0 auto 16px}
+  p{margin:8px 0}
+  .dica{background:var(--wash1);border-radius:10px;padding:14px 16px;font-size:14px;margin-top:18px;text-align:left}
+  footer{padding:28px 24px;text-align:center;font-size:13px;opacity:.85}
+  .marca{font-family:Lora,serif;font-weight:600;font-size:16px;color:var(--campo);margin-bottom:4px}
+</style>
+</head>
+<body>
+<main>
+  <div class="card">
+    <div class="check" aria-hidden="true">✓</div>
+    <h1>{{OBRIGADO_TITULO}}</h1>
+    <hr class="traco">
+    <p>{{OBRIGADO_TEXTO}}</p>
+    <div class="dica">
+      <strong>Dica:</strong> ao encontrar o e-mail da {{EMPRESA}}, arraste para a caixa principal e adicione o remetente aos contatos — assim os próximos chegam certinho.
+    </div>
+  </div>
+</main>
+<footer>
+  <p class="marca">{{EMPRESA}}</p>
+  <p>{{ENDERECO}} · © {{ANO}}</p>
+</footer>
+</body>
+</html>
