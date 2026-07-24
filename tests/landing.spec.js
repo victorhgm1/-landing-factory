@@ -36,7 +36,7 @@ test('cadastro real termina na página de obrigado', async ({ page }) => {
   await page.fill('input[name="email"]', email);
   await page.check('input[name="consentimento"]');
   await page.click('button[type="submit"]');
-  await page.waitForURL(/obrigado\.html$/, { timeout: 15000 });
+  await page.waitForURL(/obrigado(\.html)?$/, { timeout: 15000 }); // Cloudflare Pages encurta obrigado.html -> /obrigado
   await expect(page.locator('h1')).toBeVisible();
   console.log(`Cadastro de teste enviado: ${email} — conferir grupo no MailerLite + e-mail da automação.`);
 });
