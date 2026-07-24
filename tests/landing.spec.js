@@ -34,6 +34,8 @@ test('cadastro real termina na página de obrigado', async ({ page }) => {
   const email = EMAIL_TESTE.replace('@', `+${Date.now()}@`); // ex.: destravaco+1751234@gmail.com
   await page.fill('input[name="nome"]', 'Playwright Gate');
   await page.fill('input[name="email"]', email);
+  const whats = page.locator('input[name="whatsapp"]'); // preenche se o produto usar WhatsApp (opcional ou obrigatório)
+  if (await whats.count()) await whats.fill('11999999999');
   await page.check('input[name="consentimento"]');
   await page.click('button[type="submit"]');
   await page.waitForURL(/obrigado(\.html)?$/, { timeout: 15000 }); // Cloudflare Pages encurta obrigado.html -> /obrigado

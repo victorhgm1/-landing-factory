@@ -21,7 +21,7 @@ pagina:
   botao: Quero receber as receitas
 
 form:
-  whatsapp: true                # true = mostra campo WhatsApp (opcional, nunca obrigatório)
+  whatsapp: obrigatorio         # false = sem campo | true = opcional | obrigatorio = exige o telefone
   consentimento: Aceito receber o PDF, e-mails e mensagens no WhatsApp da Destrava Co. Posso me descadastrar quando quiser.
 
 mailerlite:

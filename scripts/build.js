@@ -16,8 +16,10 @@ const PALETAS = {
 };
 const NEUTROS = { creme: '#F4EFE6', ink: '#1A1A17' };
 
-const WHATSAPP_HTML = `<label for="whatsapp">WhatsApp (opcional)</label>
-      <input id="whatsapp" name="whatsapp" type="tel" autocomplete="tel" inputmode="tel">`;
+// obrigatorio=true → label sem "(opcional)" e input com required; caso contrário, campo opcional.
+const whatsappHtml = (obrigatorio) =>
+  `<label for="whatsapp">WhatsApp${obrigatorio ? '' : ' (opcional)'}</label>
+      <input id="whatsapp" name="whatsapp" type="tel" autocomplete="tel" inputmode="tel"${obrigatorio ? ' required' : ''}>`;
 
 const ROOT = path.join(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
@@ -53,7 +55,7 @@ for (const pasta of pastas) {
     BENEFICIOS: (pg.beneficios || []).map((b) => `<li>${b}</li>`).join('\n      '),
     BOTAO: pg.botao,
     CONSENTIMENTO: fm.consentimento,
-    CAMPO_WHATSAPP: fm.whatsapp ? WHATSAPP_HTML : '',
+    CAMPO_WHATSAPP: fm.whatsapp ? whatsappHtml(fm.whatsapp === 'obrigatorio' || fm.whatsapp === 'obrigatório') : '',
     GRUPO_ID: String(ml.grupo_id),
     OBRIGADO_TITULO: ob.titulo,
     OBRIGADO_TEXTO: ob.texto,
