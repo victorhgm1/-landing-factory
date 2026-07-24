@@ -21,8 +21,8 @@ pagina:
   botao: Quero receber as receitas
 
 form:
-  whatsapp: false               # true = mostra campo WhatsApp (opcional, nunca obrigatório)
-  consentimento: Aceito receber o PDF e e-mails da Destrava Co. Posso me descadastrar quando quiser.
+  whatsapp: true                # true = mostra campo WhatsApp (opcional, nunca obrigatório)
+  consentimento: Aceito receber o PDF, e-mails e mensagens no WhatsApp da Destrava Co. Posso me descadastrar quando quiser.
 
 mailerlite:
   grupo_id: "190110238297294044"   # ID numérico do grupo "Receitas - Destrava 21"
