@@ -1,0 +1,72 @@
+{
+  "data": "2026_09_17",
+  "data_iso": "2026-09-17",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "carrossel": [
+    {
+      "arquivo": "2026_09_17_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Fundo terracota com título creme e foto real de um prato de legumes e quinoa visto de cima.",
+      "foto": "prato_teste_pexels.jpg"
+    },
+    {
+      "arquivo": "2026_09_17_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo rosado claro, título terracota e texto curto sobre usar o que já está pronto.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_17_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo rosado claro, título terracota e texto sobre cozinhar tudo numa panela.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_17_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo rosado claro com lista de três combinações rápidas de jantar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_17_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo terracota, texto creme convidando a baixar o PDF gratuito e botão mostarda link na bio.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_17_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories A",
+      "alt": "Stories em fundo terracota com título creme, foto real de prato e chip mostarda.",
+      "foto": "prato_teste_pexels.jpg"
+    }
+  ],
+  "legenda": "O jantar de hoje não precisa de receita nova.\nSe tem arroz de ontem, um legume e um ovo, tem jantar em 15 minutos. O segredo não é cozinhar melhor, é decidir menos.\n\nSalve este post pro dia corrido e compartilhe com quem vive perguntando o que fazer de janta.\nAs 20 receitas rápidas estão no PDF gratuito, no link da bio.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#comidadeverdade",
+    "#jantarpratico",
+    "#receitasfaceis",
+    "#cozinhapratica"
+  ],
+  "legenda_arquivo": "2026_09_17_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "enquete",
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "brief": "content\\briefs\\2026_09_17_cozinha.yaml",
+  "gerado_em": "2026-09-16T14:28:31"
+}
