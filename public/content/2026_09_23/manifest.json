@@ -1,0 +1,84 @@
+{
+  "data": "2026_09_23",
+  "data_iso": "2026-09-23",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "carrossel": [
+    {
+      "arquivo": "2026_09_23_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina bege com título em serifa dizendo que hábito novo precisa de gancho, não de força, e subtítulo sobre encaixar o cuidado no que você já faz.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_23_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina clara explicando que o hábito sem lugar fixo no dia depende de lembrar e de ânimo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_23_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina clara com três exemplos de hábitos pequenos colados em gatilhos que já existem no dia.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_23_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina bege orientando escolher um gatilho diário e colar nele um cuidado pequeno por vez.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_23_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina final convidando a conhecer o Destrava 21 e o método D.R.A. pelo link na bio.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_23_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories A",
+      "alt": "Story bege convidando a deslizar pro feed pra ver como ancorar o hábito novo.",
+      "foto": null
+    }
+  ],
+  "legenda": "Hábito que depende de lembrar é hábito que some.\n\nO que sustenta cuidado numa rotina corrida não é força de vontade, é lugar fixo no dia. Você pega um gatilho que já acontece sozinho e cola um passo pequeno nele.\n\nCafé da manhã puxa o copo de água. Comida esquentando puxa o alongamento de ombros. Computador desligando puxa a caminhada curta.\n\nComeça com uma âncora só. Quando ela grudar, o resto fica mais simples, porque você não está mais decidindo tudo do zero todo dia.\n\nSalva pra escolher sua âncora amanhã e manda pra uma amiga que vive recomeçando. Se quiser fazer isso com um passo por dia, o Destrava 21 está no meu perfil.",
+  "hashtags": [
+    "#habitossaudaveis",
+    "#rotinacorrida",
+    "#constancia",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_09_23_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ancorar habito novo em gatilho ja automatico",
+    "uso": {
+      "entrada": 3552,
+      "saida": 2143,
+      "cache_lido": 0,
+      "custo_usd": 0.0713,
+      "tentativas": 1
+    }
+  },
+  "brief": "content\\briefs\\2026_09_23_corpo.yaml",
+  "gerado_em": "2026-09-16T15:16:40"
+}
