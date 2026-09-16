@@ -1,0 +1,72 @@
+{
+  "data": "2026_09_19",
+  "data_iso": "2026-09-19",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "carrossel": [
+    {
+      "arquivo": "2026_09_19_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Fundo verde médio com título em verde profundo sobre constância.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_19_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo verde claro, título verde profundo, texto sobre semana perfeita e pico.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_19_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo verde claro, título verde profundo, texto sobre o mínimo possível.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_19_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo verde claro com lista de três regras simples de repetição.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_19_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo verde profundo, texto creme sobre o Destrava 21 e botão coral link na bio.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_19_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories A",
+      "alt": "Stories em fundo verde médio com título em verde profundo.",
+      "foto": null
+    }
+  ],
+  "legenda": "Constância não é fazer tudo certo todo dia.\nÉ escolher uma coisa pequena, repetir amanhã e não desistir no primeiro dia que não deu. Hábito saudável nasce do mínimo que cabe na rotina corrida, não do plano perfeito.\n\nSalve pra lembrar no dia difícil e compartilhe com quem está recomeçando.\nO Destrava 21 está no link da bio.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#autocuidado",
+    "#vidademae",
+    "#habitossaudaveis",
+    "#saudefeminina"
+  ],
+  "legenda_arquivo": "2026_09_19_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "brief": "content\\briefs\\2026_09_19_corpo.yaml",
+  "gerado_em": "2026-09-16T14:28:34"
+}
