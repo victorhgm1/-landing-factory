@@ -1,0 +1,91 @@
+{
+  "data": "2026_09_21",
+  "data_iso": "2026-09-21",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "carrossel": [
+    {
+      "arquivo": "2026_09_21_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Foto de uma panela com água fervendo ao lado de legumes picados, com o texto sobre ligar a água antes de abrir a geladeira.",
+      "foto": "pexels_3722584_boiling-pot-with-chopped-vegetables.jpg"
+    },
+    {
+      "arquivo": "2026_09_21_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo claro com três passos curtos sobre começar pelo que demora mais no preparo do jantar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_21_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo bege com texto explicando que os minutos de espera do fogão podem ser usados para adiantar o jantar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_21_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo claro com lista de três combinações simples de jantar que ficam prontas rápido.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_21_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina final com convite para baixar o PDF gratuito com 20 receitas rápidas.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_21_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories A",
+      "alt": "Story com fundo claro convidando a ver no feed o carrossel sobre aproveitar o tempo da água fervendo.",
+      "foto": "pexels_3722584_boiling-pot-with-chopped-vegetables.jpg"
+    }
+  ],
+  "legenda": "Ligar a água antes de abrir a geladeira muda o jantar inteiro.\n\nEnquanto a panela esquenta, dá pra picar o que precisa, temperar a proteína e já deixar a frigideira no fogo. São minutos que normalmente passam em branco e que, bem usados, entregam o jantar quase montado.\n\nNão é truque de chef, é ordem. Começar pelo que demora mais e encaixar o resto no meio tira aquela sensação de que cozinhar toma a noite toda.\n\nHoje pode ser macarrão com brócolis na mesma panela, arroz pronto com ovo mexido e tomate ou legumes na frigideira com frango em tiras.\n\nSalva pra lembrar na correria e manda pra quem sempre chega em casa sem ideia. Se quiser, tem um PDF gratuito com 20 receitas de até 15 minutos esperando por você.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#comidadeverdade",
+    "#receitasfaceis"
+  ],
+  "legenda_arquivo": "2026_09_21_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "enquete",
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_3722584_boiling-pot-with-chopped-vegetables.jpg",
+    "id": 3722584,
+    "fotografo": "Castorly Stock",
+    "url": "https://www.pexels.com/photo/broccoli-in-stainless-steel-cooking-pot-3722584/",
+    "query": "boiling pot with chopped vegetables no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Aproveitar o tempo em que a agua ferve",
+    "uso": {
+      "entrada": 3594,
+      "saida": 2124,
+      "cache_lido": 0,
+      "custo_usd": 0.0711,
+      "tentativas": 1
+    }
+  },
+  "brief": "content\\briefs\\2026_09_21_cozinha.yaml",
+  "gerado_em": "2026-09-16T15:15:15"
+}
