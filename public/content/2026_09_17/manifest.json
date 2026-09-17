@@ -3,42 +3,47 @@
   "data_iso": "2026-09-17",
   "linha": "cozinha",
   "linha_nome": "Cozinha",
-  "variante_capa": "A",
-  "capa_fundo": "campo",
+  "variante_capa": "B",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "ink",
+    "corpo": "ink"
+  },
   "carrossel": [
     {
       "arquivo": "2026_09_17_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
-      "papel": "capa A",
-      "alt": "Fundo terracota com título creme e foto real de um prato de legumes e quinoa visto de cima.",
-      "foto": "prato_teste_pexels.jpg"
+      "papel": "capa B · fundo wash4",
+      "alt": "Fundo rosado wash4 com foto real de tábua com legumes picados e o título em ink.",
+      "foto": "pexels_6670129_chopped-vegetables-cutting-board.jpg"
     },
     {
       "arquivo": "2026_09_17_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo rosado claro, título terracota e texto curto sobre usar o que já está pronto.",
+      "alt": "Fundo wash1 bem claro com o título em campo profundo explicando por que a pressa aparece no meio do preparo.",
       "foto": null
     },
     {
       "arquivo": "2026_09_17_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo rosado claro, título terracota e texto sobre cozinhar tudo numa panela.",
+      "alt": "Fundo wash1 bem claro com título em campo profundo e lista de três passos antes de ligar o fogo.",
       "foto": null
     },
     {
       "arquivo": "2026_09_17_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo rosado claro com lista de três combinações rápidas de jantar.",
+      "alt": "Fundo wash1 bem claro com título em campo profundo e frase sobre cozinhar apenas juntando os ingredientes.",
       "foto": null
     },
     {
       "arquivo": "2026_09_17_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Fundo terracota, texto creme convidando a baixar o PDF gratuito e botão mostarda link na bio.",
+      "alt": "Fundo campo profundo com texto creme e botão no tom de acento convidando a baixar o PDF de receitas.",
       "foto": null
     }
   ],
@@ -46,27 +51,49 @@
     {
       "arquivo": "2026_09_17_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
-      "papel": "stories A",
-      "alt": "Stories em fundo terracota com título creme, foto real de prato e chip mostarda.",
-      "foto": "prato_teste_pexels.jpg"
+      "papel": "stories post do dia",
+      "alt": "Stories em fundo rosado wash4 com título em ink, foto real de legumes picados e chip mostarda convidando a deslizar pro feed.",
+      "foto": "pexels_6670129_chopped-vegetables-cutting-board.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_09_17_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
     }
   ],
-  "legenda": "O jantar de hoje não precisa de receita nova.\nSe tem arroz de ontem, um legume e um ovo, tem jantar em 15 minutos. O segredo não é cozinhar melhor, é decidir menos.\n\nSalve este post pro dia corrido e compartilhe com quem vive perguntando o que fazer de janta.\nAs 20 receitas rápidas estão no PDF gratuito, no link da bio.",
+  "legenda": "Cozinhar fica rápido quando a tábua vem antes do fogo.\n\nJantar prático quase nunca é questão de receita nova. É ordem: picar cebola, alho e o legume que tiver, separar tempero, óleo e sal, e só depois acender a boca do fogão.\n\nSão uns três minutos de tábua que economizam aquela correria de mexer a panela com uma mão e cortar com a outra. Sem cheiro de queimado, sem começar o jantar de mau humor.\n\nDepois disso, cozinhar é só montar. E ainda sobra tempo pra deixar a pia mais limpa antes de sentar pra comer.\n\nSalva pra lembrar na próxima terça e manda pra quem sempre cozinha com pressa. Se quiser ideias já pensadas pra até 15 minutos, o PDF com 20 receitas rápidas está esperando você.",
   "hashtags": [
-    "#receitasrapidas",
-    "#comidadeverdade",
+    "#cozinhapratica",
     "#jantarpratico",
-    "#receitasfaceis",
-    "#cozinhapratica"
+    "#receitasrapidas",
+    "#praticidadenacozinha",
+    "#comidadeverdade"
   ],
   "legenda_arquivo": "2026_09_17_-_Legenda_Cozinha.txt",
-  "sticker_sugestao": "enquete",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
   "cta": {
     "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
     "botao": "LINK NA BIO",
     "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
     "preco": "grátis"
   },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Picar tudo antes de acender o fogo",
+    "uso": null
+  },
   "brief": "content\\briefs\\2026_09_17_cozinha.yaml",
-  "gerado_em": "2026-09-16T14:28:31"
+  "gerado_em": "2026-09-17T15:54:24"
 }
