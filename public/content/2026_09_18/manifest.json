@@ -1,0 +1,105 @@
+{
+  "data": "2026_09_18",
+  "data_iso": "2026-09-18",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_18_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Fundo wash4 da linha Corpo com o título em campo dizendo que falhar um dia não quebra nada, mas falhar dois sim.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_18_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo explicando que o segundo dia seguido é o que realmente atrapalha.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_18_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e três passos da regra de nunca falhar duas vezes seguidas.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_18_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo mostrando exemplos de versão mínima do hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_18_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a conhecer o Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_18_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash4 da linha Corpo com título em campo sobre retomar o hábito e convite para deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_09_18_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Retomar hábito depois de um dia perdido é mais simples do que recomeçar tudo de novo.\n\nO dia que você pulou não apagou nada. O que costuma derrubar a constância é o segundo dia seguido, porque ele abre espaço pro terceiro e aí parece que você voltou pra estaca zero.\n\nPor isso a regra é uma só: nunca duas vezes seguidas. Perdeu hoje, você já decide quando volta amanhã. E volta na versão mínima, não na versão perfeita. Cinco minutos de caminhada contam. Um copo de água conta. Dormir um pouco mais cedo conta.\n\nNada de compensar o que passou. Compensação cansa e faz você desistir mais rápido.\n\nSalva esse post pra lembrar no próximo dia corrido e manda pra uma amiga que acha que já perdeu o ritmo. Se quiser o básico do dia já organizado, o Destrava 21 com o método D.R.A. te espera.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#mulheresreais",
+    "#autocuidado"
+  ],
+  "legenda_arquivo": "2026_09_18_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Retomada apos falhar: regra do nunca duas vezes",
+    "uso": {
+      "entrada": 3672,
+      "saida": 1915,
+      "cache_lido": 0,
+      "custo_usd": 0.0662,
+      "tentativas": 1
+    }
+  },
+  "brief": "content\\briefs\\2026_09_18_corpo.yaml",
+  "gerado_em": "2026-09-18T07:00:28"
+}
