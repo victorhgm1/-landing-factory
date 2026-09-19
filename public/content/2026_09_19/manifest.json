@@ -3,13 +3,18 @@
   "data_iso": "2026-09-19",
   "linha": "corpo",
   "linha_nome": "Corpo",
-  "variante_capa": "A",
-  "capa_fundo": "wash4",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
   "carrossel": [
     {
       "arquivo": "2026_09_19_-_Carrossel_Corpo_01.png",
       "tipo": "Carrossel",
-      "papel": "capa A",
+      "papel": "capa B",
       "alt": "Fundo verde médio com título em verde profundo sobre constância.",
       "foto": null
     },
@@ -46,27 +51,49 @@
     {
       "arquivo": "2026_09_19_-_Stories_Corpo_01.png",
       "tipo": "Stories",
-      "papel": "stories A",
+      "papel": "stories post do dia",
       "alt": "Stories em fundo verde médio com título em verde profundo.",
-      "foto": null
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_09_19_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
     }
   ],
   "legenda": "Constância não é fazer tudo certo todo dia.\nÉ escolher uma coisa pequena, repetir amanhã e não desistir no primeiro dia que não deu. Hábito saudável nasce do mínimo que cabe na rotina corrida, não do plano perfeito.\n\nSalve pra lembrar no dia difícil e compartilhe com quem está recomeçando.\nO Destrava 21 está no link da bio.",
   "hashtags": [
-    "#rotinacorrida",
-    "#autocuidado",
-    "#vidademae",
     "#habitossaudaveis",
-    "#saudefeminina"
+    "#saudefeminina",
+    "#bemestarfeminino",
+    "#mulheresreais",
+    "#constancia"
   ],
   "legenda_arquivo": "2026_09_19_-_Legenda_Corpo.txt",
-  "sticker_sugestao": "pergunta aberta",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
   "cta": {
     "oferta": "Destrava 21 (método D.R.A.)",
     "botao": "LINK NA BIO",
     "link": "https://cfjo70.atoms.world",
     "preco": "R$37,90"
   },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": null,
+    "angulo": null,
+    "uso": null
+  },
   "brief": "content\\briefs\\2026_09_19_corpo.yaml",
-  "gerado_em": "2026-09-16T14:28:34"
+  "gerado_em": "2026-09-19T07:00:02"
 }
