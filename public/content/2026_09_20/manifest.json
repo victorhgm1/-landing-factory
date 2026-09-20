@@ -1,0 +1,112 @@
+{
+  "data": "2026_09_20",
+  "data_iso": "2026-09-20",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_20_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Foto de uma frigideira com arroz e legumes sobre fundo campo, com titulo em creme dizendo que a louca cansa mais do que cozinhar.",
+      "foto": "pexels_2226991_one-pan-rice-vegetables-skillet.jpg"
+    },
+    {
+      "arquivo": "2026_09_20_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo bem claro com titulo em verde profundo explicando as tres etapas numa unica frigideira.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_20_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo bem claro com titulo em verde profundo e lista de tres combinacoes que cabem numa panela so.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_20_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo bem claro com titulo em verde profundo sugerindo lavar a tabua e a faca enquanto o jantar cozinha.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_20_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lamina de fundo verde profundo com texto em creme convidando a baixar o PDF gratis e botao em cor de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_20_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories de fundo campo com titulo em creme sobre jantar numa frigideira so e convite pra deslizar pro feed.",
+      "foto": "pexels_2226991_one-pan-rice-vegetables-skillet.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_09_20_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar de uma frigideira so: menos louca na pia e a mesma comida de verdade no prato.\n\nNa correria, o que pesa muitas vezes nao e cozinhar. E olhar a pia cheia depois. Quando o jantar inteiro acontece numa panela unica, a conta muda: tabua, faca, frigideira e os pratos da mesa.\n\nO truque e a ordem. Doura o que precisa de mais fogo, empurra pro canto, refoga o legume no mesmo fundo e junta tudo no final. O sabor se acumula ali dentro.\n\nE enquanto o fogo trabalha, a tabua e a faca ja vao pra pia. No fim da noite sobra pouquinho.\n\nSalva pra lembrar na proxima correria e manda pra quem divide a cozinha com voce. Se quiser mais ideias assim, o PDF com 20 receitas de ate 15 minutos esta esperando por voce.",
+  "hashtags": [
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#receitasrapidas",
+    "#comidadeverdade",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_09_20_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_2226991_one-pan-rice-vegetables-skillet.jpg",
+    "id": 2226991,
+    "fotografo": "Olena Islamkina",
+    "url": "https://www.pexels.com/photo/cooked-food-on-frying-fan-on-brown-wooden-surface-2226991/",
+    "query": "one pan rice vegetables skillet no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Jantar inteiro numa frigideira so, menos louca",
+    "uso": {
+      "entrada": 3728,
+      "saida": 1932,
+      "cache_lido": 0,
+      "custo_usd": 0.0669,
+      "tentativas": 1
+    }
+  },
+  "brief": "content\\briefs\\2026_09_20_cozinha.yaml",
+  "gerado_em": "2026-09-20T07:00:34"
+}
