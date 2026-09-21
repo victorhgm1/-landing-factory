@@ -1,0 +1,30 @@
+{
+  "host": "graph.instagram.com",
+  "user_id": "17841416230345343",
+  "carrossel": {
+    "media_id": "18141471607564524",
+    "permalink": "https://www.instagram.com/p/Ddjz3j8FpTv/",
+    "laminas": 5
+  },
+  "stories_download": [
+    {
+      "ordem": 1,
+      "arquivo": "2026_09_21_-_Stories_Corpo_01.png",
+      "download": "https://2f4f2919.landing-factory-36n.pages.dev/content/2026_09_21/2026_09_21_-_Stories_Corpo_01.png",
+      "papel": "stories post do dia",
+      "sticker_link": "https://www.instagram.com/p/Ddjz3j8FpTv/",
+      "instrucao": "Baixe, poste no app e cole o sticker de link → https://www.instagram.com/p/Ddjz3j8FpTv/"
+    },
+    {
+      "ordem": 2,
+      "arquivo": "2026_09_21_-_Stories_Corpo_02.png",
+      "download": "https://2f4f2919.landing-factory-36n.pages.dev/content/2026_09_21/2026_09_21_-_Stories_Corpo_02.png",
+      "papel": "stories oferta",
+      "sticker_link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "instrucao": "Baixe, poste no app e cole o sticker de link → https://destravaco.com.br/d21-mulheres-inicial/"
+    }
+  ],
+  "stories_via_api": false,
+  "publicado_em": "2026-09-21T15:31:58",
+  "modo": "teste manual (--eu-autorizo)"
+}

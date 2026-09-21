@@ -54,8 +54,8 @@
       "papel": "stories post do dia",
       "alt": "Fundo wash4 da linha Corpo com kicker, título em campo e convite para deslizar até o feed.",
       "foto": null,
-      "link": null,
-      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "link": "https://www.instagram.com/p/Ddjz3j8FpTv/",
+      "link_nota": "permalink do carrossel publicado",
       "sticker": "enquete"
     },
     {
@@ -101,5 +101,11 @@
     }
   },
   "brief": "content\\briefs\\2026_09_21_corpo.yaml",
-  "gerado_em": "2026-09-21T15:21:51"
+  "gerado_em": "2026-09-21T15:21:51",
+  "publicado": {
+    "media_id": "18141471607564524",
+    "permalink": "https://www.instagram.com/p/Ddjz3j8FpTv/",
+    "em": "2026-09-21T15:31:58",
+    "stories_via_api": false
+  }
 }
