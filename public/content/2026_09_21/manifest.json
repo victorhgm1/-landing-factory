@@ -1,112 +1,105 @@
 {
   "data": "2026_09_21",
   "data_iso": "2026-09-21",
-  "linha": "cozinha",
-  "linha_nome": "Cozinha",
-  "variante_capa": "B",
-  "capa_fundo": "wash2",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
   "capa_cores": {
-    "fundo": "wash2",
+    "fundo": "wash4",
     "titulo": "campo",
-    "corpo": "ink"
+    "corpo": "campo"
   },
   "carrossel": [
     {
-      "arquivo": "2026_09_21_-_Carrossel_Cozinha_01.png",
+      "arquivo": "2026_09_21_-_Carrossel_Corpo_01.png",
       "tipo": "Carrossel",
-      "papel": "capa B",
-      "alt": "Lamina de capa com fundo wash2 e foto de frango com legumes numa frigideira, titulo em campo sobre o sabor mudar todo dia.",
-      "foto": "pexels_9779959_chicken-and-vegetables-skillet.jpg"
-    },
-    {
-      "arquivo": "2026_09_21_-_Carrossel_Cozinha_02.png",
-      "tipo": "Carrossel",
-      "papel": "miolo",
-      "alt": "Lamina de miolo com fundo wash1 bem claro e titulo no campo profundo explicando a base neutra de frango e legumes.",
+      "papel": "capa A",
+      "alt": "Fundo wash4 da linha Corpo com o título em campo perguntando se o hábito foi feito para o dia bom.",
       "foto": null
     },
     {
-      "arquivo": "2026_09_21_-_Carrossel_Cozinha_03.png",
+      "arquivo": "2026_09_21_-_Carrossel_Corpo_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lamina de miolo com fundo wash1 bem claro, titulo no campo profundo e lista com tres combinacoes de tempero.",
+      "alt": "Fundo wash1 bem claro com título em campo profundo explicando por que o plano do dia bom não se sustenta.",
       "foto": null
     },
     {
-      "arquivo": "2026_09_21_-_Carrossel_Cozinha_04.png",
+      "arquivo": "2026_09_21_-_Carrossel_Corpo_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lamina de miolo com fundo wash1 bem claro e titulo no campo profundo orientando temperar na hora de servir.",
+      "alt": "Fundo wash1 bem claro com título em campo profundo e três exemplos de versão mínima de hábitos.",
       "foto": null
     },
     {
-      "arquivo": "2026_09_21_-_Carrossel_Cozinha_05.png",
+      "arquivo": "2026_09_21_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título em campo profundo orientando a definir a versão mínima antecipadamente.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_21_-_Carrossel_Corpo_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lamina final com fundo campo profundo, texto creme convidando a baixar o PDF e botao no tom de acento.",
+      "alt": "Fundo campo profundo com texto creme convidando pro Destrava 21 e botão no tom de acento com a chamada.",
       "foto": null
     }
   ],
   "stories": [
     {
-      "arquivo": "2026_09_21_-_Stories_Cozinha_01.png",
+      "arquivo": "2026_09_21_-_Stories_Corpo_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Stories com fundo wash2 da linha e titulo em campo sobre uma base que vira tres sabores.",
-      "foto": "pexels_9779959_chicken-and-vegetables-skillet.jpg",
+      "alt": "Fundo wash4 da linha Corpo com kicker, título em campo e convite para deslizar até o feed.",
+      "foto": null,
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
-      "sticker": "quiz"
+      "sticker": "enquete"
     },
     {
-      "arquivo": "2026_09_21_-_Stories_Cozinha_02.png",
+      "arquivo": "2026_09_21_-_Stories_Corpo_02.png",
       "tipo": "Stories",
       "papel": "stories oferta",
-      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
       "foto": null,
-      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
       "sticker": "link"
     }
   ],
-  "legenda": "Comida repetida cansa mais que cozinhar. A saida nao e receita nova, e acabamento novo.\n\nQuando voce cozinha frango e legumes so com sal e azeite, ganha uma base que vai pra qualquer lado. No dia seguinte ela vira limao com salsinha. Depois vira shoyu com gengibre. Depois vira tomate com oregano.\n\nSao dois minutos no fim, direto no prato. O resto do trabalho ja estava feito.\n\nSalva pra lembrar na proxima vez que bater o tedio do jantar e manda pra quem sempre reclama que comeu a mesma coisa. Se quiser mais opcoes prontas, o PDF com 20 receitas de ate 15 minutos ta esperando por voce.",
+  "legenda": "Rotina corrida não derruba quem tem uma versão mínima do hábito pronta.\n\nA gente costuma planejar a semana no domingo, descansada e otimista. Aí chega a quarta com reunião atrasada, criança sem dormir e jantar por resolver. O plano não cabe, e o cansaço faz parecer que o problema é você.\n\nNão é. O plano só foi desenhado pro seu melhor dia.\n\nTeste o contrário: pense no seu pior dia da semana e defina agora qual é a menor versão possível de cada hábito. Oito minutos de alongamento. Um jantar simples com o que já está pronto. Uma volta no quarteirão. Pequeno feito continua contando, e é ele que mantém o fio da constância.\n\nSalva esse post pra montar a sua versão mínima com calma e compartilha com a amiga que vive recomeçando na segunda. Se quiser um caminho organizado pra isso, o Destrava 21 e o método D.R.A. te esperam.",
   "hashtags": [
-    "#receitasrapidas",
-    "#cozinhapratica",
-    "#jantarpratico",
-    "#comidadeverdade",
-    "#cardapiosemanal"
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#constancia",
+    "#mulheresreais",
+    "#autocuidadofeminino"
   ],
-  "legenda_arquivo": "2026_09_21_-_Legenda_Cozinha.txt",
-  "sticker_sugestao": "quiz",
+  "legenda_arquivo": "2026_09_21_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
   "stories_oferta": {
-    "titulo": "20 Receitas Rápidas de até 15 Minutos",
-    "link": "https://lp.destravaco.com.br/receitas-15min"
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
   },
   "cta": {
-    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "oferta": "Destrava 21 (método D.R.A.)",
     "botao": "LINK NA BIO",
-    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
-    "preco": "grátis"
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
   },
-  "foto": {
-    "arquivo": "pexels_9779959_chicken-and-vegetables-skillet.jpg",
-    "id": 9779959,
-    "fotografo": "Cats Coming",
-    "url": "https://www.pexels.com/photo/meal-on-a-pan-9779959/",
-    "query": "chicken and vegetables skillet no people",
-    "fonte": "pexels"
-  },
+  "foto": null,
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Uma base neutra com tres acabamentos rapidos",
+    "angulo": "Desenhar o habito para o pior dia da semana",
     "uso": {
-      "entrada": 3752,
-      "saida": 2260,
+      "entrada": 3695,
+      "saida": 2034,
       "cache_lido": 0,
-      "custo_usd": 0.0753,
+      "custo_usd": 0.0693,
       "tentativas": 1
     }
   },
-  "brief": "content\\briefs\\2026_09_21_cozinha.yaml",
-  "gerado_em": "2026-09-21T07:00:39"
+  "brief": "content\\briefs\\2026_09_21_corpo.yaml",
+  "gerado_em": "2026-09-21T15:21:51"
 }
