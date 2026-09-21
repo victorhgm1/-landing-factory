@@ -3,42 +3,47 @@
   "data_iso": "2026-09-21",
   "linha": "cozinha",
   "linha_nome": "Cozinha",
-  "variante_capa": "A",
-  "capa_fundo": "campo",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
   "carrossel": [
     {
       "arquivo": "2026_09_21_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
-      "papel": "capa A",
-      "alt": "Foto de uma panela com água fervendo ao lado de legumes picados, com o texto sobre ligar a água antes de abrir a geladeira.",
-      "foto": "pexels_3722584_boiling-pot-with-chopped-vegetables.jpg"
+      "papel": "capa B",
+      "alt": "Lamina de capa com fundo wash2 e foto de frango com legumes numa frigideira, titulo em campo sobre o sabor mudar todo dia.",
+      "foto": "pexels_9779959_chicken-and-vegetables-skillet.jpg"
     },
     {
       "arquivo": "2026_09_21_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo claro com três passos curtos sobre começar pelo que demora mais no preparo do jantar.",
+      "alt": "Lamina de miolo com fundo wash1 bem claro e titulo no campo profundo explicando a base neutra de frango e legumes.",
       "foto": null
     },
     {
       "arquivo": "2026_09_21_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo bege com texto explicando que os minutos de espera do fogão podem ser usados para adiantar o jantar.",
+      "alt": "Lamina de miolo com fundo wash1 bem claro, titulo no campo profundo e lista com tres combinacoes de tempero.",
       "foto": null
     },
     {
       "arquivo": "2026_09_21_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo claro com lista de três combinações simples de jantar que ficam prontas rápido.",
+      "alt": "Lamina de miolo com fundo wash1 bem claro e titulo no campo profundo orientando temperar na hora de servir.",
       "foto": null
     },
     {
       "arquivo": "2026_09_21_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina final com convite para baixar o PDF gratuito com 20 receitas rápidas.",
+      "alt": "Lamina final com fundo campo profundo, texto creme convidando a baixar o PDF e botao no tom de acento.",
       "foto": null
     }
   ],
@@ -46,21 +51,37 @@
     {
       "arquivo": "2026_09_21_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
-      "papel": "stories A",
-      "alt": "Story com fundo claro convidando a ver no feed o carrossel sobre aproveitar o tempo da água fervendo.",
-      "foto": "pexels_3722584_boiling-pot-with-chopped-vegetables.jpg"
+      "papel": "stories post do dia",
+      "alt": "Stories com fundo wash2 da linha e titulo em campo sobre uma base que vira tres sabores.",
+      "foto": "pexels_9779959_chicken-and-vegetables-skillet.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_09_21_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
     }
   ],
-  "legenda": "Ligar a água antes de abrir a geladeira muda o jantar inteiro.\n\nEnquanto a panela esquenta, dá pra picar o que precisa, temperar a proteína e já deixar a frigideira no fogo. São minutos que normalmente passam em branco e que, bem usados, entregam o jantar quase montado.\n\nNão é truque de chef, é ordem. Começar pelo que demora mais e encaixar o resto no meio tira aquela sensação de que cozinhar toma a noite toda.\n\nHoje pode ser macarrão com brócolis na mesma panela, arroz pronto com ovo mexido e tomate ou legumes na frigideira com frango em tiras.\n\nSalva pra lembrar na correria e manda pra quem sempre chega em casa sem ideia. Se quiser, tem um PDF gratuito com 20 receitas de até 15 minutos esperando por você.",
+  "legenda": "Comida repetida cansa mais que cozinhar. A saida nao e receita nova, e acabamento novo.\n\nQuando voce cozinha frango e legumes so com sal e azeite, ganha uma base que vai pra qualquer lado. No dia seguinte ela vira limao com salsinha. Depois vira shoyu com gengibre. Depois vira tomate com oregano.\n\nSao dois minutos no fim, direto no prato. O resto do trabalho ja estava feito.\n\nSalva pra lembrar na proxima vez que bater o tedio do jantar e manda pra quem sempre reclama que comeu a mesma coisa. Se quiser mais opcoes prontas, o PDF com 20 receitas de ate 15 minutos ta esperando por voce.",
   "hashtags": [
     "#receitasrapidas",
-    "#jantarpratico",
     "#cozinhapratica",
+    "#jantarpratico",
     "#comidadeverdade",
-    "#receitasfaceis"
+    "#cardapiosemanal"
   ],
   "legenda_arquivo": "2026_09_21_-_Legenda_Cozinha.txt",
-  "sticker_sugestao": "enquete",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
   "cta": {
     "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
     "botao": "LINK NA BIO",
@@ -68,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_3722584_boiling-pot-with-chopped-vegetables.jpg",
-    "id": 3722584,
-    "fotografo": "Castorly Stock",
-    "url": "https://www.pexels.com/photo/broccoli-in-stainless-steel-cooking-pot-3722584/",
-    "query": "boiling pot with chopped vegetables no people",
+    "arquivo": "pexels_9779959_chicken-and-vegetables-skillet.jpg",
+    "id": 9779959,
+    "fotografo": "Cats Coming",
+    "url": "https://www.pexels.com/photo/meal-on-a-pan-9779959/",
+    "query": "chicken and vegetables skillet no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Aproveitar o tempo em que a agua ferve",
+    "angulo": "Uma base neutra com tres acabamentos rapidos",
     "uso": {
-      "entrada": 3594,
-      "saida": 2124,
+      "entrada": 3752,
+      "saida": 2260,
       "cache_lido": 0,
-      "custo_usd": 0.0711,
+      "custo_usd": 0.0753,
       "tentativas": 1
     }
   },
   "brief": "content\\briefs\\2026_09_21_cozinha.yaml",
-  "gerado_em": "2026-09-16T15:15:15"
+  "gerado_em": "2026-09-21T07:00:39"
 }
