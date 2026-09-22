@@ -1,84 +1,112 @@
 {
   "data": "2026_09_23",
   "data_iso": "2026-09-23",
-  "linha": "corpo",
-  "linha_nome": "Corpo",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
   "variante_capa": "A",
-  "capa_fundo": "wash4",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
   "carrossel": [
     {
-      "arquivo": "2026_09_23_-_Carrossel_Corpo_01.png",
+      "arquivo": "2026_09_23_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Lâmina bege com título em serifa dizendo que hábito novo precisa de gancho, não de força, e subtítulo sobre encaixar o cuidado no que você já faz.",
-      "foto": null
+      "alt": "Fundo campo da linha com foto de massa, molho de tomate e ovos sobre a bancada, título em creme dizendo que tem dias que o jantar sai da despensa e não da cabeça.",
+      "foto": "pexels_4084673_pantry-pasta-tomato-eggs.jpg"
     },
     {
-      "arquivo": "2026_09_23_-_Carrossel_Corpo_02.png",
+      "arquivo": "2026_09_23_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina clara explicando que o hábito sem lugar fixo no dia depende de lembrar e de ânimo.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo, listando ovos e queijo, massa com molho e grão-de-bico ou atum como itens curinga.",
       "foto": null
     },
     {
-      "arquivo": "2026_09_23_-_Carrossel_Corpo_03.png",
+      "arquivo": "2026_09_23_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina clara com três exemplos de hábitos pequenos colados em gatilhos que já existem no dia.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo explicando que os mesmos cinco itens viram dois jantares diferentes.",
       "foto": null
     },
     {
-      "arquivo": "2026_09_23_-_Carrossel_Corpo_04.png",
+      "arquivo": "2026_09_23_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina bege orientando escolher um gatilho diário e colar nele um cuidado pequeno por vez.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre repor um item por vez para manter a despensa abastecida.",
       "foto": null
     },
     {
-      "arquivo": "2026_09_23_-_Carrossel_Corpo_05.png",
+      "arquivo": "2026_09_23_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina final convidando a conhecer o Destrava 21 e o método D.R.A. pelo link na bio.",
+      "alt": "Fundo campo profundo com texto creme convidando a baixar as 20 receitas rápidas e botão no tom de acento.",
       "foto": null
     }
   ],
   "stories": [
     {
-      "arquivo": "2026_09_23_-_Stories_Corpo_01.png",
+      "arquivo": "2026_09_23_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
-      "papel": "stories A",
-      "alt": "Story bege convidando a deslizar pro feed pra ver como ancorar o hábito novo.",
-      "foto": null
+      "papel": "stories post do dia",
+      "alt": "Fundo campo da linha com título em creme sobre o kit curinga da despensa e convite para deslizar até o feed.",
+      "foto": "pexels_4084673_pantry-pasta-tomato-eggs.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_09_23_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
     }
   ],
-  "legenda": "Hábito que depende de lembrar é hábito que some.\n\nO que sustenta cuidado numa rotina corrida não é força de vontade, é lugar fixo no dia. Você pega um gatilho que já acontece sozinho e cola um passo pequeno nele.\n\nCafé da manhã puxa o copo de água. Comida esquentando puxa o alongamento de ombros. Computador desligando puxa a caminhada curta.\n\nComeça com uma âncora só. Quando ela grudar, o resto fica mais simples, porque você não está mais decidindo tudo do zero todo dia.\n\nSalva pra escolher sua âncora amanhã e manda pra uma amiga que vive recomeçando. Se quiser fazer isso com um passo por dia, o Destrava 21 está no meu perfil.",
+  "legenda": "Jantar rápido começa na despensa, não na inspiração.\n\nQuando a prateleira tem massa curta, molho de tomate, ovos, queijo e uma lata de grão-de-bico, a noite já está meio resolvida. Você não precisa lembrar de nenhuma receita, só juntar o que está ali.\n\nUma noite vira massa com molho e queijo ralado. Outra vira ovos mexidos com grão-de-bico e um fio de azeite. Mesmo kit, jantares diferentes.\n\nE pra não deixar acabar: usou um item, anota na lista. Assim a despensa se mantém sem esforço e sem compra gigante no domingo.\n\nSalva esse post pra montar seu kit na próxima ida ao mercado e manda pra alguém que também chega em casa sem ideia. O PDF com 20 receitas de até 15 minutos está esperando por você na bio.",
   "hashtags": [
-    "#habitossaudaveis",
-    "#rotinacorrida",
-    "#constancia",
-    "#autocuidado",
-    "#mulheresreais"
+    "#receitasrapidas",
+    "#cozinhapratica",
+    "#jantarpratico",
+    "#comidadeverdade",
+    "#receitasfaceis"
   ],
-  "legenda_arquivo": "2026_09_23_-_Legenda_Corpo.txt",
+  "legenda_arquivo": "2026_09_23_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "pergunta aberta",
-  "cta": {
-    "oferta": "Destrava 21 (método D.R.A.)",
-    "botao": "LINK NA BIO",
-    "link": "https://cfjo70.atoms.world",
-    "preco": "R$37,90"
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
   },
-  "foto": null,
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_4084673_pantry-pasta-tomato-eggs.jpg",
+    "id": 4084673,
+    "fotografo": "https://kaboompics.com/",
+    "url": "https://www.pexels.com/photo/pasta-noodles-near-white-paper-4084673/",
+    "query": "pantry pasta tomato eggs no people",
+    "fonte": "pexels"
+  },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Ancorar habito novo em gatilho ja automatico",
+    "angulo": "Kit curinga da despensa resolve o jantar",
     "uso": {
-      "entrada": 3552,
-      "saida": 2143,
+      "entrada": 3771,
+      "saida": 2485,
       "cache_lido": 0,
-      "custo_usd": 0.0713,
+      "custo_usd": 0.081,
       "tentativas": 1
     }
   },
-  "brief": "content\\briefs\\2026_09_23_corpo.yaml",
-  "gerado_em": "2026-09-16T15:16:40"
+  "brief": "content/briefs/2026_09_23_cozinha.yaml",
+  "gerado_em": "2026-09-22T19:18:46"
 }
