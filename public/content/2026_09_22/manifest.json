@@ -1,0 +1,105 @@
+{
+  "data": "2026_09_22",
+  "data_iso": "2026-09-22",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_22_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lâmina com fundo wash3 da linha Corpo e título em campo dizendo que o que está à vista vence a força de vontade.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_22_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina com fundo wash1 bem claro e título no campo profundo explicando deixar à vista o que se quer repetir.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_22_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina com fundo wash1 bem claro e título no campo profundo com três exemplos de afastar o que atrapalha.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_22_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina com fundo wash1 bem claro e título no campo profundo falando em encurtar o começo do hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_22_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina com fundo campo profundo, texto creme e botão no acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_22_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 da linha Corpo e título em campo convidando a ver os três ajustes no feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_09_22_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Ambiente organizado sustenta mais hábito do que força de vontade.\n\nA gente costuma se cobrar disciplina quando, na verdade, a casa está jogando contra. O pote de bolacha na bancada, o tênis no fundo do armário, o celular na mesa do almoço. Tudo isso decide por você antes de você pensar.\n\nA virada é simples: aproxime o que você quer repetir e afaste o que atrapalha. Depois, encurte o começo até caber em vinte segundos.\n\nNo dia corrido, o hábito que sobrevive é o mais fácil de iniciar.\n\nSalva pra aplicar hoje à noite e compartilha com quem vive dizendo que falta disciplina. Se quiser um caminho guiado, o Destrava 21 te espera no perfil.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#constancia",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_09_22_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ambiente visivel reduz atrito e sustenta o habito",
+    "uso": {
+      "entrada": 3714,
+      "saida": 2324,
+      "cache_lido": 0,
+      "custo_usd": 0.0767,
+      "tentativas": 1
+    }
+  },
+  "brief": "content\\briefs\\2026_09_22_corpo.yaml",
+  "gerado_em": "2026-09-22T07:00:37"
+}
