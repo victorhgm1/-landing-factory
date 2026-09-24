@@ -1,0 +1,112 @@
+{
+  "data": "2026_09_24",
+  "data_iso": "2026-09-24",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_24_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Capa com fundo wash2 da linha Cozinha, foto de legumes dourando numa frigideira e o título A ordem na panela vale mais que a receita em campo destacado.",
+      "foto": "pexels_15059725_vegetables-cooking-in-skillet.jpg"
+    },
+    {
+      "arquivo": "2026_09_24_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título Quem demora entra primeiro em campo profundo e três itens sobre a ordem dos ingredientes.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_24_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título O corte iguala o tempo em campo profundo e um texto curto sobre tamanho dos pedaços.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_24_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título Os dois minutos finais em campo profundo e um texto sobre finalizar o prato fora do fogo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_24_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme convidando a baixar as 20 receitas rápidas e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_24_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories com fundo wash2 da linha Cozinha e título sobre a ordem certa dos ingredientes na panela em campo destacado.",
+      "foto": "pexels_15059725_vegetables-cooking-in-skillet.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_09_24_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Ordem na panela resolve mais que receita nova: é ela que faz tudo ficar pronto junto.\n\nQuando a gente joga tudo ao mesmo tempo, a cenoura fica dura e a abobrinha vira purê. Aí parece que a receita deu errado, mas foi só a sequência.\n\nA lógica é simples: o que demora mais entra primeiro, o que é macio entra depois e o que é fresco entra com o fogo apagado. Se dois ingredientes precisam ir juntos, corte menor o que demora mais.\n\nSalva pra lembrar na próxima vez que o jantar for improvisado e manda pra quem sempre queima a cebola esperando o frango.\n\nE se quiser um empurrãozinho, o PDF com 20 receitas de até 15 minutos está te esperando.",
+  "hashtags": [
+    "#cozinhapratica",
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#comidadeverdade",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_09_24_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_15059725_vegetables-cooking-in-skillet.jpg",
+    "id": 15059725,
+    "fotografo": "Collab Media",
+    "url": "https://www.pexels.com/photo/cooking-vegetables-in-bowl-15059725/",
+    "query": "vegetables cooking in skillet no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ordem de entrada na panela por tempo de cozimento",
+    "uso": {
+      "entrada": 3792,
+      "saida": 2197,
+      "cache_lido": 0,
+      "custo_usd": 0.0739,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_09_24_cozinha.yaml",
+  "gerado_em": "2026-09-24T10:02:29"
+}
