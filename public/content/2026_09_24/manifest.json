@@ -15,35 +15,35 @@
       "arquivo": "2026_09_24_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa B",
-      "alt": "Capa com fundo wash2 da linha Cozinha, foto de legumes dourando numa frigideira e o título A ordem na panela vale mais que a receita em campo destacado.",
-      "foto": "pexels_15059725_vegetables-cooking-in-skillet.jpg"
+      "alt": "Lâmina de capa com foto de legumes congelados caindo em frigideira quente sobre fundo wash2, com o título sobre esqueceu de descongelar em campo destacado.",
+      "foto": "pexels_4252141_frozen-vegetables-hot-skillet.jpg"
     },
     {
       "arquivo": "2026_09_24_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com o título Quem demora entra primeiro em campo profundo e três itens sobre a ordem dos ingredientes.",
+      "alt": "Lâmina de fundo wash1 bem claro com título em campo profundo explicando que o congelado vai direto para o fogo.",
       "foto": null
     },
     {
       "arquivo": "2026_09_24_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com o título O corte iguala o tempo em campo profundo e um texto curto sobre tamanho dos pedaços.",
+      "alt": "Lâmina de fundo wash1 com título em campo profundo e lista de três formas de congelar para facilitar o preparo.",
       "foto": null
     },
     {
       "arquivo": "2026_09_24_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com o título Os dois minutos finais em campo profundo e um texto sobre finalizar o prato fora do fogo.",
+      "alt": "Lâmina de fundo wash1 com título em campo profundo sobre manter a panela bem quente ao cozinhar alimento congelado.",
       "foto": null
     },
     {
       "arquivo": "2026_09_24_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de CTA com fundo campo profundo, texto creme convidando a baixar as 20 receitas rápidas e botão no tom de acento.",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto em creme e botão no tom de acento convidando a baixar o PDF de receitas rápidas.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_09_24_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Stories com fundo wash2 da linha Cozinha e título sobre a ordem certa dos ingredientes na panela em campo destacado.",
-      "foto": "pexels_15059725_vegetables-cooking-in-skillet.jpg",
+      "alt": "Lâmina de Stories com fundo wash2 e título em campo destacado convidando a ver o post no feed.",
+      "foto": "pexels_4252141_frozen-vegetables-hot-skillet.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "quiz"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Ordem na panela resolve mais que receita nova: é ela que faz tudo ficar pronto junto.\n\nQuando a gente joga tudo ao mesmo tempo, a cenoura fica dura e a abobrinha vira purê. Aí parece que a receita deu errado, mas foi só a sequência.\n\nA lógica é simples: o que demora mais entra primeiro, o que é macio entra depois e o que é fresco entra com o fogo apagado. Se dois ingredientes precisam ir juntos, corte menor o que demora mais.\n\nSalva pra lembrar na próxima vez que o jantar for improvisado e manda pra quem sempre queima a cebola esperando o frango.\n\nE se quiser um empurrãozinho, o PDF com 20 receitas de até 15 minutos está te esperando.",
+  "legenda": "Esqueceu a carne no congelador e já pensou em pedir delivery? Dá pra cozinhar direto do congelador e jantar em poucos minutos.\n\nO que muda é a preparação: congele em porções finas e achatadas, com os legumes já picados e a carne em tiras soltas. Bloco grande é o que trava o jantar.\n\nNa hora de cozinhar, deixe a frigideira esquentar de verdade, não amontoe tudo de uma vez e mexa pouco no começo. Assim a água evapora e a comida doura em vez de cozinhar no próprio caldo.\n\nSalva pra lembrar no próximo dia corrido e compartilha com quem vive nessa correria. Se quiser mais ideias prontas, o PDF com 20 receitas rápidas até 15 minutos está esperando você.",
   "hashtags": [
-    "#cozinhapratica",
     "#receitasrapidas",
     "#jantarpratico",
-    "#comidadeverdade",
-    "#praticidadenacozinha"
+    "#cozinhapratica",
+    "#praticidadenacozinha",
+    "#comidadeverdade"
   ],
   "legenda_arquivo": "2026_09_24_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "quiz",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_15059725_vegetables-cooking-in-skillet.jpg",
-    "id": 15059725,
-    "fotografo": "Collab Media",
-    "url": "https://www.pexels.com/photo/cooking-vegetables-in-bowl-15059725/",
-    "query": "vegetables cooking in skillet no people",
+    "arquivo": "pexels_4252141_frozen-vegetables-hot-skillet.jpg",
+    "id": 4252141,
+    "fotografo": "cottonbro studio",
+    "url": "https://www.pexels.com/photo/person-holding-stainless-steel-bowl-with-vegetable-salad-4252141/",
+    "query": "frozen vegetables hot skillet no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Ordem de entrada na panela por tempo de cozimento",
+    "angulo": "Cozinhar direto do congelador sem descongelar",
     "uso": {
-      "entrada": 3792,
-      "saida": 2197,
+      "entrada": 3814,
+      "saida": 2724,
       "cache_lido": 0,
-      "custo_usd": 0.0739,
+      "custo_usd": 0.0872,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_09_24_cozinha.yaml",
-  "gerado_em": "2026-09-24T10:02:29"
+  "gerado_em": "2026-09-24T13:27:06"
 }
