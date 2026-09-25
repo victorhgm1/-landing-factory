@@ -1,0 +1,105 @@
+{
+  "data": "2026_09_25",
+  "data_iso": "2026-09-25",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_25_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina com fundo wash4 da linha Corpo e o título O ambiente escolhe antes de você em campo destacado, com subtítulo sobre ajustes no que fica à vista.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_25_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título Deixe à vista o que quer repetir em campo profundo e três exemplos de itens deixados prontos.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_25_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título Some um passo no que atrapalha em campo profundo e um texto sobre dificultar o acesso ao que desvia.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_25_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título Comece por um canto só em campo profundo e um texto sobre organizar um espaço por vez.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_25_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando a conhecer o Destrava 21 e botão no tom de acento com a chamada link na bio.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_25_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 da linha Corpo, título O ambiente escolhe antes de você em campo destacado e convite pra deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_09_25_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Ambiente organizado decide por você antes de a vontade aparecer.\n\nNa rotina corrida, a escolha mais fácil quase sempre vence. Não é falta de força: é que o copo estava sujo, a fruta estava no fundo da gaveta e o tênis embaixo da cama.\n\nEntão inverta o jogo. Deixe à mão o que você quer repetir e coloque um passo a mais entre você e o que atrapalha. Comece por um canto só, hoje.\n\nSalva pra aplicar no fim do dia e manda pra uma amiga que vive correndo. Se quiser um caminho pronto pra organizar ambiente e rotina, o Destrava 21 te guia em passos curtos.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#autocuidadofeminino",
+    "#constancia",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_09_25_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ambiente pronto facilita a escolha saudavel",
+    "uso": {
+      "entrada": 3714,
+      "saida": 2105,
+      "cache_lido": 0,
+      "custo_usd": 0.0712,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_09_25_corpo.yaml",
+  "gerado_em": "2026-09-25T10:02:30"
+}
