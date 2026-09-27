@@ -1,0 +1,112 @@
+{
+  "data": "2026_09_27",
+  "data_iso": "2026-09-27",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_27_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Foto de um potinho de molho verde com colher ao lado de legumes, sobre fundo campo com título em creme.",
+      "foto": "pexels_11434408_herb-sauce-bowl-spoon.jpg"
+    },
+    {
+      "arquivo": "2026_09_27_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e lista dos três elementos do molho curinga.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_27_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e lista de três combinações de molho.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_27_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e um parágrafo curto sobre preparo e conservação do molho.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_27_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme e botão no tom de acento convidando a baixar o PDF gratuito.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_27_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo campo com título em creme anunciando o post novo sobre molho curinga.",
+      "foto": "pexels_11434408_herb-sauce-bowl-spoon.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_09_27_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Molho curinga de 2 minutos: o truque que muda o jantar sem receita nova.\n\nA fórmula é sempre a mesma: uma gordura, um ácido e um tempero. Azeite com limão e alho. Iogurte com azeite e sal. Azeite com mostarda e um fio de mel.\n\nO mesmo frango de sempre, os legumes de ontem, o arroz da panela. Tudo ganha cara nova quando chega um molho por cima na hora de servir.\n\nFaz direto no potinho que vai pra geladeira. Dura uns três dias e resolve mais de um jantar.\n\nSalva pra lembrar na próxima correria e manda pra quem sempre diz que não sabe o que fazer no jantar. Se quiser ideias prontas, o PDF com 20 receitas rápidas até 15 minutos está esperando você.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#comidadeverdade",
+    "#receitasfaceis"
+  ],
+  "legenda_arquivo": "2026_09_27_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_11434408_herb-sauce-bowl-spoon.jpg",
+    "id": 11434408,
+    "fotografo": "FOX ^.ᆽ.^= ∫",
+    "url": "https://www.pexels.com/photo/bowl-of-chili-soup-11434408/",
+    "query": "herb sauce bowl spoon no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Molho curinga de 2 minutos transforma qualquer jantar",
+    "uso": {
+      "entrada": 3832,
+      "saida": 2285,
+      "cache_lido": 0,
+      "custo_usd": 0.0763,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_09_27_cozinha.yaml",
+  "gerado_em": "2026-09-27T10:01:32"
+}
