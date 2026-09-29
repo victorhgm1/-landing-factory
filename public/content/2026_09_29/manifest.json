@@ -1,0 +1,105 @@
+{
+  "data": "2026_09_29",
+  "data_iso": "2026-09-29",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_29_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Fundo wash4 da linha Corpo com o título em campo profundo dizendo que o hábito não é só seu e a casa entra junto.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_29_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre avisar a casa e um texto curto explicando por que isso evita sabotagem.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_29_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre pedir tarefa e três exemplos de divisão em lista.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_29_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre combinar o que sai da sua lista e um texto curto de apoio.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_29_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a conhecer o Destrava 21 e botão no tom de acento escrito LINK NA BIO.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_29_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash4 da linha Corpo com kicker novo no feed, título sobre o hábito não ser só seu e convite para deslizar.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_09_29_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Seu hábito não precisa depender só da sua força de vontade.\n\nQuando a casa sabe do combinado, cuidar do corpo deixa de ser mais uma tarefa acumulada no seu dia. A conversa é simples: o que muda na sua rotina e o que pode sair da sua lista pra caber esse tempo.\n\nPeça tarefa concreta, não incentivo. Alguém lava a louça, alguém assume dois jantares da semana, a lista de compras vira combinado e não improviso. É menos coisa na sua cabeça e mais chance de manter o passo nos dias corridos.\n\nE quando escorregar, não é recomeçar do zero: é revisar o combinado.\n\nSalva pra lembrar e manda pra quem divide a casa com você. Se quiser um caminho organizado, o Destrava 21 te mostra o método D.R.A. passo a passo.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#vidademae",
+    "#habitossaudaveis",
+    "#constancia",
+    "#autocuidadofeminino"
+  ],
+  "legenda_arquivo": "2026_09_29_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Combinado com a casa sustenta o habito",
+    "uso": {
+      "entrada": 3761,
+      "saida": 2572,
+      "cache_lido": 0,
+      "custo_usd": 0.0831,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_09_29_corpo.yaml",
+  "gerado_em": "2026-09-29T10:01:39"
+}
