@@ -1,0 +1,105 @@
+{
+  "data": "2026_09_30",
+  "data_iso": "2026-09-30",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_09_30_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lâmina de capa com fundo wash3 da linha Corpo e título em campo convidando a contar a semana em vez de dias perfeitos.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_30_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e título no campo profundo explicando por que a meta diária vira tudo ou nada.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_30_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e lista de três passos pra montar a meta semanal do hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_30_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e título no campo profundo sobre revisar o placar da semana no domingo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_09_30_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_09_30_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 da linha Corpo e título em campo convidando a deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_09_30_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Constância não é ter sete dias perfeitos: é fechar a semana com mais acertos que tropeços.\n\nQuando a meta é diária, qualquer imprevisto parece fracasso e o hábito morre na quarta-feira. Quando a meta é semanal, o dia ruim entra na conta e você continua.\n\nEscolha quantos dias bastam pra semana valer, marque num lugar que você vê sem esforço e trate o dia perdido como dia livre. No fim da semana, olhe o placar em dois minutos e ajuste o tamanho do hábito, não o tamanho da cobrança.\n\nRetomar no dia seguinte vale mais que começar de novo do zero na segunda.\n\nSalva pra lembrar na próxima semana corrida e manda pra amiga que desistiu por causa de um dia. Se quiser o caminho passo a passo, o Destrava 21 te mostra por onde começar.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#mulheresreais",
+    "#autocuidado"
+  ],
+  "legenda_arquivo": "2026_09_30_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Meta semanal de hábito em vez de meta diária",
+    "uso": {
+      "entrada": 4434,
+      "saida": 2223,
+      "cache_lido": 0,
+      "custo_usd": 0.0777,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_09_30_corpo.yaml",
+  "gerado_em": "2026-09-30T10:01:32"
+}
