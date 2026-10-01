@@ -15,35 +15,35 @@
       "arquivo": "2026_10_01_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Capa com foto de frango dourando em frigideira de ferro sobre fundo campo e título em creme dizendo que o frango solta água porque a panela esfriou.",
-      "foto": "pexels_34422177_seared-chicken-cast-iron-skillet.jpg"
+      "alt": "Capa com fundo campo da linha e foto de compras frescas na bancada, com o título em creme dizendo que o jantar começa quando você guarda as compras.",
+      "foto": "pexels_8900041_fresh-groceries-kitchen-counter.jpg"
     },
     {
       "arquivo": "2026_10_01_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro com título em campo profundo sobre secar o ingrediente antes de levar à panela.",
+      "alt": "Lâmina de fundo bem claro com o título sobre porcionar antes de congelar e três itens curtos em lista.",
       "foto": null
     },
     {
       "arquivo": "2026_10_01_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina clara com título em campo profundo e três passos do teste da gota para saber a hora certa da panela.",
+      "alt": "Lâmina de fundo bem claro com o título sobre lavar o que estraga primeiro e um parágrafo curto abaixo.",
       "foto": null
     },
     {
       "arquivo": "2026_10_01_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina clara com título em campo profundo explicando por que encher demais a frigideira atrapalha o douramento.",
+      "alt": "Lâmina de fundo bem claro com o título sobre montar a prateleira do jantar e três itens curtos em lista.",
       "foto": null
     },
     {
       "arquivo": "2026_10_01_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de fundo campo profundo com texto creme convidando a baixar o PDF de 20 receitas rápidas e botão em cor de acento.",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando a pegar o PDF de receitas rápidas e botão no tom de acento.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_10_01_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Stories com fundo campo e título em creme dizendo que a panela fria faz a comida soltar água, com convite pra ver o post.",
-      "foto": "pexels_34422177_seared-chicken-cast-iron-skillet.jpg",
+      "alt": "Stories com fundo campo da linha e título em creme sobre guardar as compras, convidando a deslizar pro feed.",
+      "foto": "pexels_8900041_fresh-groceries-kitchen-counter.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "pergunta aberta"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "O frango soltou água e cozinhou no próprio caldo porque a panela ainda estava fria.\nTécnica de frigideira muda o jantar mais do que receita nova: seca, quente e sem lotar.\n\nSeque o ingrediente com papel toalha antes de encostar na panela. A água da superfície vira vapor, e vapor não doura nada.\n\nEspere a frigideira vazia esquentar por cerca de um minuto. Pingue uma gota de água: se ela correr em bolinha, é a hora do óleo e, em seguida, da comida.\n\nE resista a jogar tudo de uma vez. Em duas levas rápidas sai dourado; tudo junto sai cozido e pálido.\n\nSalva pra lembrar na próxima vez que acender o fogo e manda pra quem vive brigando com a frigideira. Se quiser ideias prontas, o PDF com 20 receitas rápidas até 15 min está te esperando.",
+  "legenda": "Guardar as compras com intenção é o que faz o jantar sair rápido depois.\nDez minutos no dia do mercado e a quarta-feira corrida já chega resolvida.\n\nA gente chega cansada e empurra tudo pra geladeira do jeito que veio. Aí na quarta o frango virou um bloco único de gelo e a folha murchou no fundo da gaveta.\n\nA mudança é pequena: porcionar a proteína no tamanho de uma refeição, lavar e secar os verdes antes de guardar e deixar cebola e alho picados num pote fechado. Na hora da fome, metade do preparo já está feito.\n\nSalve pra lembrar no próximo mercado e manda pra quem divide a cozinha com você. Se quiser os jantares que combinam com essa despensa, o PDF com 20 receitas rápidas até 15 min está no perfil.",
   "hashtags": [
-    "#receitasrapidas",
     "#cozinhapratica",
+    "#praticidadenacozinha",
     "#jantarpratico",
-    "#comidadeverdade",
-    "#praticidadenacozinha"
+    "#receitasrapidas",
+    "#cardapiosemanal"
   ],
   "legenda_arquivo": "2026_10_01_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "pergunta aberta",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_34422177_seared-chicken-cast-iron-skillet.jpg",
-    "id": 34422177,
-    "fotografo": "Nadtochiy Photography",
-    "url": "https://www.pexels.com/photo/grilled-lamb-chops-with-herbs-on-grill-pan-34422177/",
-    "query": "seared chicken cast iron skillet no people",
+    "arquivo": "pexels_8900041_fresh-groceries-kitchen-counter.jpg",
+    "id": 8900041,
+    "fotografo": "SHVETS production",
+    "url": "https://www.pexels.com/photo/green-vegetable-on-brown-paper-bag-8900041/",
+    "query": "fresh groceries kitchen counter no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Panela quente e ingrediente seco douram em vez de cozinhar",
+    "angulo": "Guardar as compras do mercado deixa o jantar meio pronto",
     "uso": {
-      "entrada": 4458,
-      "saida": 2168,
+      "entrada": 4484,
+      "saida": 3401,
       "cache_lido": 0,
-      "custo_usd": 0.0765,
+      "custo_usd": 0.1074,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_01_cozinha.yaml",
-  "gerado_em": "2026-10-01T10:02:31"
+  "gerado_em": "2026-10-01T12:21:37"
 }
