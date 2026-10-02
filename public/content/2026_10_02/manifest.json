@@ -15,35 +15,35 @@
       "arquivo": "2026_10_02_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa B",
-      "alt": "Foto de uma frigideira com grão de bico, tomate e legumes sobre fundo claro, com o título dizendo que o jantar demora pelo ingrediente.",
-      "foto": "pexels_6275164_chickpea-tomato-skillet-dinner.jpg"
+      "alt": "Fundo wash2 da linha Cozinha com foto de frigideira tampada e título em campo escrito que a tampa da panela é o atalho que ninguém usa.",
+      "foto": "pexels_10824623_covered-skillet-with-vegetables.jpg"
     },
     {
       "arquivo": "2026_10_02_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro explicando que o tempo do jantar depende do ingrediente escolhido.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo explicando que o vapor preso pela tampa cozinha o alimento dos dois lados.",
       "foto": null
     },
     {
       "arquivo": "2026_10_02_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro com três trocas de ingredientes lentos por versões rápidas.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e lista de três momentos de usar e tirar a tampa.",
       "foto": null
     },
     {
       "arquivo": "2026_10_02_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro dizendo que o tempero continua o mesmo quando se troca o ingrediente principal.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo descrevendo um jantar de frango feito com tampa em dez minutos.",
       "foto": null
     },
     {
       "arquivo": "2026_10_02_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de fundo verde profundo com texto creme convidando a baixar o PDF gratuito e botão em destaque.",
+      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF gratuito de 20 receitas rápidas e botão no tom de acento.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_10_02_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Stories de fundo verde claro com título sobre o ingrediente que decide o tempo do jantar e convite para ver o feed.",
-      "foto": "pexels_6275164_chickpea-tomato-skillet-dinner.jpg",
+      "alt": "Fundo wash2 da linha Cozinha com kicker novo no feed e título sobre a tampa da panela como atalho.",
+      "foto": "pexels_10824623_covered-skillet-with-vegetables.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "quiz"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Jantar rápido começa na escolha do ingrediente, não na pressa.\n\nReceita rápida de verdade quase sempre é a mesma receita de sempre com um ingrediente que cozinha em menos tempo. Grão de bico de lata no lugar do feijão seco. Filé de peixe ou ovo no lugar do corte que pede panela longa. Massa fininha no lugar da grossa.\n\nO tempero não muda. O refogado é o mesmo, o cheiro é o mesmo, o prato continua comida de verdade. O que muda é quanto tempo você fica de pé esperando.\n\nNo dia corrido, olhar a despensa com essa pergunta ajuda: o que aqui já está pronto pela metade?\n\nSalva pra lembrar na hora das compras e manda pra quem chega em casa sem ideia de jantar. Se quiser as receitas já montadas nesse raciocínio, o PDF com 20 receitas de até 15 minutos é gratuito.",
+  "legenda": "Tampa na panela é o atalho mais barato pra encurtar o jantar.\n\nCozinha prática é isso: o vapor fica preso, o calor circula por cima e por baixo, e o que levava quinze minutos fica pronto em oito. Dá pra abaixar o fogo e ainda ganhar tempo.\n\nA ordem que funciona aqui em casa: tampa fechada no começo, com um fio de água, pra cozinhar por dentro. Nos últimos minutos, tampa fora, pra secar o líquido e dourar.\n\nFrango em cubos, legume picado, grão cozido: todos aceitam esse mesmo caminho. Você muda o tempero e muda o jantar.\n\nSalva pra testar no próximo dia corrido e manda pra quem vive dizendo que não tem tempo de cozinhar. Se quiser o passo a passo pronto, o PDF gratuito com 20 receitas rápidas até 15 min te espera.",
   "hashtags": [
+    "#cozinhapratica",
     "#receitasrapidas",
     "#jantarpratico",
-    "#cozinhapratica",
-    "#comidadeverdade",
-    "#receitasfaceis"
+    "#praticidadenacozinha",
+    "#comidadeverdade"
   ],
   "legenda_arquivo": "2026_10_02_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "quiz",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_6275164_chickpea-tomato-skillet-dinner.jpg",
-    "id": 6275164,
-    "fotografo": "Nataliya Vaitkevich",
-    "url": "https://www.pexels.com/photo/falafel-in-a-bowl-and-bread-near-a-pan-with-cooked-food-6275164/",
-    "query": "chickpea tomato skillet dinner no people",
+    "arquivo": "pexels_10824623_covered-skillet-with-vegetables.jpg",
+    "id": 10824623,
+    "fotografo": "Teresa Jang",
+    "url": "https://www.pexels.com/photo/food-on-a-table-10824623/",
+    "query": "covered skillet with vegetables no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Trocar ingrediente lento pelo primo rapido",
+    "angulo": "Tampa da panela como atalho de cozimento",
     "uso": {
-      "entrada": 4511,
-      "saida": 2577,
+      "entrada": 4532,
+      "saida": 3097,
       "cache_lido": 0,
-      "custo_usd": 0.087,
+      "custo_usd": 0.1001,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_02_cozinha.yaml",
-  "gerado_em": "2026-10-02T10:03:50"
+  "gerado_em": "2026-10-02T14:42:13"
 }
