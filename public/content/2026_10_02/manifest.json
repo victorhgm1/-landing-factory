@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_02",
+  "data_iso": "2026-10-02",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_02_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Foto de uma frigideira com grão de bico, tomate e legumes sobre fundo claro, com o título dizendo que o jantar demora pelo ingrediente.",
+      "foto": "pexels_6275164_chickpea-tomato-skillet-dinner.jpg"
+    },
+    {
+      "arquivo": "2026_10_02_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro explicando que o tempo do jantar depende do ingrediente escolhido.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_02_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com três trocas de ingredientes lentos por versões rápidas.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_02_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro dizendo que o tempero continua o mesmo quando se troca o ingrediente principal.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_02_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo verde profundo com texto creme convidando a baixar o PDF gratuito e botão em destaque.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_02_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories de fundo verde claro com título sobre o ingrediente que decide o tempo do jantar e convite para ver o feed.",
+      "foto": "pexels_6275164_chickpea-tomato-skillet-dinner.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_10_02_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar rápido começa na escolha do ingrediente, não na pressa.\n\nReceita rápida de verdade quase sempre é a mesma receita de sempre com um ingrediente que cozinha em menos tempo. Grão de bico de lata no lugar do feijão seco. Filé de peixe ou ovo no lugar do corte que pede panela longa. Massa fininha no lugar da grossa.\n\nO tempero não muda. O refogado é o mesmo, o cheiro é o mesmo, o prato continua comida de verdade. O que muda é quanto tempo você fica de pé esperando.\n\nNo dia corrido, olhar a despensa com essa pergunta ajuda: o que aqui já está pronto pela metade?\n\nSalva pra lembrar na hora das compras e manda pra quem chega em casa sem ideia de jantar. Se quiser as receitas já montadas nesse raciocínio, o PDF com 20 receitas de até 15 minutos é gratuito.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#comidadeverdade",
+    "#receitasfaceis"
+  ],
+  "legenda_arquivo": "2026_10_02_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_6275164_chickpea-tomato-skillet-dinner.jpg",
+    "id": 6275164,
+    "fotografo": "Nataliya Vaitkevich",
+    "url": "https://www.pexels.com/photo/falafel-in-a-bowl-and-bread-near-a-pan-with-cooked-food-6275164/",
+    "query": "chickpea tomato skillet dinner no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Trocar ingrediente lento pelo primo rapido",
+    "uso": {
+      "entrada": 4511,
+      "saida": 2577,
+      "cache_lido": 0,
+      "custo_usd": 0.087,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_02_cozinha.yaml",
+  "gerado_em": "2026-10-02T10:03:50"
+}
