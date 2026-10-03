@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_03",
+  "data_iso": "2026-10-03",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_03_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina com fundo wash4 da linha Corpo e título em campo dizendo que você não precisa de uma hora livre pra se mexer.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_03_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que o corpo soma movimentos curtos ao longo do dia.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_03_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com lista de três momentos do dia que viram janelas de movimento.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_03_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre escolher movimentos que cabem na roupa que você já está usando.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_03_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme e botão no tom de acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_03_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 da linha Corpo e título em campo convidando a deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_10_03_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Movimento não precisa de uma hora livre: precisa de duas janelinhas que já existem no seu dia.\n\nDisposição no dia a dia vem muito mais de mexer o corpo várias vezes em pedaços curtos do que de um plano perfeito que nunca começa. Em casa, sem academia, sem roupa de treino.\n\nO teste é simples: se dá pra fazer com a roupa que você já está usando, enquanto o café passa ou antes do banho, o hábito sobrevive. Se exige preparação, ele vira tarefa e desaparece na primeira semana corrida.\n\nComeça escolhendo uma janelinha só. Uma. Amanhã você repete na mesma hora e deixa o corpo lembrar sozinho.\n\nSalva pra lembrar no meio da correria e manda pra uma amiga que vive dizendo que não tem tempo. Se quiser montar isso num caminho guiado, o Destrava 21 te mostra como destravar, repetir e ajustar no seu ritmo.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#autocuidado",
+    "#constancia",
+    "#habitossaudaveis",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_03_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Movimento picado em janelas de dois minutos",
+    "uso": {
+      "entrada": 4454,
+      "saida": 2870,
+      "cache_lido": 0,
+      "custo_usd": 0.094,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_03_corpo.yaml",
+  "gerado_em": "2026-10-03T10:02:52"
+}
