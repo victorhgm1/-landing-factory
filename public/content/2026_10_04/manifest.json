@@ -15,35 +15,35 @@
       "arquivo": "2026_10_04_-_Carrossel_Corpo_01.png",
       "tipo": "Carrossel",
       "papel": "capa B",
-      "alt": "Lâmina de capa com fundo wash3 da linha Corpo e título em campo sobre a tarde que desaba sem pausa.",
+      "alt": "Lâmina com fundo wash3 da linha Corpo e título em campo dizendo que seu dia precisa de hora pra terminar.",
       "foto": null
     },
     {
       "arquivo": "2026_10_04_-_Carrossel_Corpo_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de miolo com fundo wash1 bem claro e título em campo profundo explicando por que a tarde pesa sem pausa.",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que o dia sem fim cansa mais.",
       "foto": null
     },
     {
       "arquivo": "2026_10_04_-_Carrossel_Corpo_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de miolo com fundo wash1 bem claro, título em campo profundo e lista de três características da pausa.",
+      "alt": "Lâmina de fundo wash1 bem claro com lista de três passos pra marcar o encerramento do dia.",
       "foto": null
     },
     {
       "arquivo": "2026_10_04_-_Carrossel_Corpo_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de miolo com fundo wash1 bem claro e título em campo profundo sobre a versão curta da pausa nos dias cheios.",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre a versão curta do encerramento em dias ruins.",
       "foto": null
     },
     {
       "arquivo": "2026_10_04_-_Carrossel_Corpo_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no acento convidando a conhecer o Destrava 21.",
+      "alt": "Lâmina de fundo campo profundo com texto creme e botão no acento convidando a conhecer o Destrava 21.",
       "foto": null
     }
   ],
@@ -52,7 +52,7 @@
       "arquivo": "2026_10_04_-_Stories_Corpo_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Lâmina de Stories com fundo wash3 da linha Corpo e título em campo convidando a ver o post no feed.",
+      "alt": "Story com fundo wash3 da linha e título em campo convidando a deslizar pro feed.",
       "foto": null,
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
@@ -68,7 +68,7 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Energia na tarde não é sorte: é pausa marcada no meio do dia.\n\nNa rotina corrida, a gente emenda uma coisa na outra e só percebe o cansaço quando já não sobra nada pra noite. O corpo passa horas em alerta e cobra a conta depois.\n\nA pausa que funciona é a mais simples: hora marcada no celular, dez minutos longe de tela, sempre no mesmo horário. Nos dias impossíveis, dois minutos de pé respirando já seguram o hábito.\n\nNão precisa ser perfeita todo dia. Precisa existir mais vezes do que falta.\n\nSalva pra lembrar amanhã e manda pra uma amiga que vive atropelada. Se quiser construir esse tipo de hábito com apoio, o Destrava 21 te guia passo a passo com o método D.R.A.",
+  "legenda": "Energia no dia seguinte começa com uma hora pra encerrar o dia de hoje.\n\nA gente combina horário pra tudo, menos pra parar. Aí o dia vai esticando, a noite vira o único espaço livre que sobrou e você acorda com a sensação de que não descansou de verdade.\n\nEncerrar é um hábito, igual a qualquer outro. Escolhe um horário, define uma última tarefa pequena e sempre igual, abaixa a luz. Seu corpo começa a entender que aquele sinal significa fim do expediente da casa.\n\nE nos dias em que der errado, não precisa abandonar: faz a versão de dois minutos e retoma amanhã. Constância é isso, voltar rápido.\n\nSalva pra lembrar hoje à noite e manda pra uma amiga que vive apagando a luz tarde. Se quiser montar essa rotina com apoio, o Destrava 21 te guia um passo por dia.",
   "hashtags": [
     "#rotinacorrida",
     "#autocuidado",
@@ -91,15 +91,15 @@
   "foto": null,
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Pausa curta marcada no meio do dia",
+    "angulo": "Hora fixa pra encerrar o dia",
     "uso": {
-      "entrada": 4472,
-      "saida": 2890,
+      "entrada": 4489,
+      "saida": 2632,
       "cache_lido": 0,
-      "custo_usd": 0.0946,
+      "custo_usd": 0.0882,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_04_corpo.yaml",
-  "gerado_em": "2026-10-04T10:02:51"
+  "gerado_em": "2026-10-04T13:22:51"
 }
