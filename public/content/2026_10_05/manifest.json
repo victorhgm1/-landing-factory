@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_05",
+  "data_iso": "2026-10-05",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_05_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de capa com fundo campo da linha e título em creme sobre foto de legumes salteados na frigideira.",
+      "foto": "pexels_28153008_sauteed-vegetables-in-skillet.jpg"
+    },
+    {
+      "arquivo": "2026_10_05_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título no tom campo profundo explicando por que o sal no final fica só na superfície.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_05_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título no tom campo profundo e três momentos de temperar durante o preparo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_05_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título no tom campo profundo listando o momento certo de alho, ervas e ácido.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_05_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme e botão no tom de acento convidando a baixar o PDF gratuito.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_05_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo campo da linha e título em creme convidando a ver o carrossel sobre temperar em camadas.",
+      "foto": "pexels_28153008_sauteed-vegetables-in-skillet.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_10_05_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Tempero jogado só no prato pronto é o motivo de muita comida boa ficar sem graça.\n\nSal na água do arroz, uma pitada no refogado logo no começo, ajuste no fim depois de provar. É a mesma receita de sempre, só que com sabor em camadas.\n\nE três detalhes que mudam o jantar: alho no óleo ainda morno, erva seca no refogado e erva fresca no final, um fio de limão ou vinagre na hora de servir.\n\nNada disso toma tempo a mais. Só muda a ordem.\n\nSalva pra lembrar na próxima panela e manda pra quem vive dizendo que cozinha mal. Se quiser o jantar já resolvido, o PDF com 20 receitas rápidas até 15 min está esperando por você.",
+  "hashtags": [
+    "#comidadeverdade",
+    "#cozinhapratica",
+    "#receitasfaceis",
+    "#comidacaseira",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_10_05_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_28153008_sauteed-vegetables-in-skillet.jpg",
+    "id": 28153008,
+    "fotografo": "Michał Robak",
+    "url": "https://www.pexels.com/photo/mushrooms-are-cooking-in-a-skillet-on-a-grill-28153008/",
+    "query": "sauteed vegetables in skillet no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Temperar em camadas durante o cozimento, não no final",
+    "uso": {
+      "entrada": 4548,
+      "saida": 3512,
+      "cache_lido": 0,
+      "custo_usd": 0.1105,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_05_cozinha.yaml",
+  "gerado_em": "2026-10-05T10:03:00"
+}
