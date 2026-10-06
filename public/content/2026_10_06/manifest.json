@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_06",
+  "data_iso": "2026-10-06",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_06_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Fundo wash2 da linha Cozinha com foto de cubos de refogado congelado e o titulo em campo sobre a imagem.",
+      "foto": "pexels_4686937_frozen-sofrito-cubes-tray.jpg"
+    },
+    {
+      "arquivo": "2026_10_06_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com titulo em campo profundo explicando como fazer a base de refogado de uma vez.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_06_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com titulo em campo profundo e lista de tres passos para congelar a base em cubinhos.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_06_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com titulo em campo profundo mostrando como usar os cubos direto do congelador.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_06_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF e botao no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_06_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash2 da linha com kicker e titulo em campo sobre os cubinhos de refogado congelado.",
+      "foto": "pexels_4686937_frozen-sofrito-cubes-tray.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_10_06_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Refogado pronto no congelador é o atalho mais barato que existe pra quem cozinha com pressa.\nCebola, alho e tomate refogados uma vez só viram base de sabor pra semana inteira.\n\nFunciona assim: você refoga uma panela cheia, deixa esfriar, divide em forma de gelo e leva ao congelador. No dia seguinte, desenforma os cubinhos e guarda num pote fechado.\n\nNa hora do jantar, a panela esquenta, um cubo vai direto do congelador pra ela e o arroz, o molho de tomate ou os legumes já começam temperados. Sem picar nada, sem chorar em cima da tábua num dia cansado.\n\nSe a semana apertar, dois cubos e uma lata de grão de bico já são um prato quente.\n\nSalva esse post pra fazer no próximo fim de semana e manda pra alguém que vive dizendo que não tem tempo de cozinhar. Se quiser mais ideias de jantar rápido, o PDF com 20 receitas de até 15 minutos é gratuito.",
+  "hashtags": [
+    "#cozinhapratica",
+    "#receitasrapidas",
+    "#praticidadenacozinha",
+    "#comidacaseira",
+    "#jantarpratico"
+  ],
+  "legenda_arquivo": "2026_10_06_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_4686937_frozen-sofrito-cubes-tray.jpg",
+    "id": 4686937,
+    "fotografo": "cottonbro studio",
+    "url": "https://www.pexels.com/photo/blue-and-white-floral-plastic-tray-4686937/",
+    "query": "frozen sofrito cubes tray no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Base de refogado congelada em cubos de tempero",
+    "uso": {
+      "entrada": 4571,
+      "saida": 2747,
+      "cache_lido": 0,
+      "custo_usd": 0.0915,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_06_cozinha.yaml",
+  "gerado_em": "2026-10-06T10:02:59"
+}
