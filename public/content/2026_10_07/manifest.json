@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_07",
+  "data_iso": "2026-10-07",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_07_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de capa com fundo wash4 da linha Corpo e título em campo dizendo que segunda-feira é o pior dia pra começar um hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_07_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo bem claro e título em campo profundo explicando que segunda-feira é um dia atípico.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_07_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo bem claro, título em campo profundo e lista de três passos pra estrear o hábito num dia comum.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_07_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo bem claro e título em campo profundo dizendo que a semana vira teste e não vitrine.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_07_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina final com fundo campo profundo, texto creme convidando a conhecer o Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_07_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 da linha Corpo e título em campo convidando a não esperar a segunda-feira.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_10_07_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Começar um hábito na segunda-feira parece organizado, mas costuma ser armadilha.\n\nSegunda vem com energia de recomeço, agenda limpa na cabeça e intenção alta. Só que esse cenário não se repete na quarta à noite, quando a casa está bagunçada e você está cansada. O hábito que você treinou no dia fácil não aprendeu a existir no dia difícil.\n\nPor isso, estreia melhor num dia comum. Escolhe uma quarta qualquer, faz a versão de cinco minutos e repete no dia seguinte mesmo que saia meia-boca. Se falhar na quinta, ainda sobra semana pra retomar, e retomar dentro da mesma semana é o que sustenta a constância.\n\nE o melhor: você não precisa esperar nada. Nem segunda, nem dia primeiro, nem a fase calma que nunca chega.\n\nSalva pra lembrar no próximo recomeço e manda pra uma amiga que vive adiando pra segunda. Se quiser um caminho pronto pra criar constância em passos pequenos, dá uma olhada no Destrava 21 e no método D.R.A.",
+  "hashtags": [
+    "#constancia",
+    "#habitossaudaveis",
+    "#rotinacorrida",
+    "#mulheresreais",
+    "#autocuidado"
+  ],
+  "legenda_arquivo": "2026_10_07_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Comecar num dia comum em vez de na segunda",
+    "uso": {
+      "entrada": 4547,
+      "saida": 2811,
+      "cache_lido": 0,
+      "custo_usd": 0.093,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_07_corpo.yaml",
+  "gerado_em": "2026-10-07T10:02:46"
+}
