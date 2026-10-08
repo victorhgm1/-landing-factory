@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_08",
+  "data_iso": "2026-10-08",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_08_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Fundo wash3 da linha Corpo com o título em campo dizendo que você acha que leva meia hora e leva seis minutos.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_08_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com o título sobre o tempo imaginado ser maior e um texto curto abaixo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_08_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com o título sobre cronometrar uma vez e três passos curtos listados.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_08_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com o título sobre o que fazer com o número e um texto curto abaixo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_08_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a conhecer o Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_08_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash3 da linha Corpo com kicker novo no feed e o título sobre cronometrar o hábito adiado.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_10_08_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Cronometre o hábito que você vive adiando: ele provavelmente leva menos tempo do que a sua cabeça diz.\n\nA gente não adia por preguiça. Adia por causa de um número inventado. Alongar parece meia hora. Caminhar na rua de casa parece um compromisso enorme. Quando você mede de verdade, costuma ser bem menos.\n\nFaz o teste uma vez. Liga o cronômetro, faz no seu ritmo, anota o tempo real num lugar visível. Da próxima vez que a desculpa aparecer, você responde com um número concreto em vez de uma sensação.\n\nDepois é só encaixar esse tempo num espaço que a sua rotina já tem. O que cabe no dia ruim é o que vira constância.\n\nSalva pra lembrar no próximo dia corrido e manda pra uma amiga que também vive adiando. Se quiser fazer isso com acompanhamento, o Destrava 21 te espera na bio.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#constancia",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_08_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Cronometrar o habito pra desarmar o adiamento",
+    "uso": {
+      "entrada": 4566,
+      "saida": 2447,
+      "cache_lido": 0,
+      "custo_usd": 0.084,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_08_corpo.yaml",
+  "gerado_em": "2026-10-08T10:02:53"
+}
