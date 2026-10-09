@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_09",
+  "data_iso": "2026-10-09",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_09_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Capa com foto real de sacolas de compras e legumes sobre a bancada da cozinha, com titulo em creme sobre fundo campo da linha.",
+      "foto": "pexels_12765448_grocery-haul-kitchen-counter-vegetables.jpg"
+    },
+    {
+      "arquivo": "2026_10_09_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo bem claro com titulo em azul profundo explicando escrever os jantares antes de montar a lista.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_09_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo bem claro com titulo em azul profundo e lista de tres itens que compoem cada jantar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_09_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo bem claro com titulo em azul profundo sobre repetir o mesmo ingrediente em jantares diferentes.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_09_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lamina final com fundo campo profundo, texto creme e botao em cor de acento convidando a baixar o PDF gratuito.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_09_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo campo da linha e titulo em creme convidando a ver o carrossel novo no feed.",
+      "foto": "pexels_12765448_grocery-haul-kitchen-counter-vegetables.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_10_09_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Lista de compras por jantar resolve mais que lista por corredor do mercado.\n\nQuando a gente anota leite, arroz, tomate e frango soltos, chega em casa com sacola cheia e continua sem saber o que fazer as sete da noite. Quando a gente anota jantar de segunda, jantar de terca, a compra ja vem com destino.\n\nA formula e simples: uma proteina rapida, um carboidrato que voce ja tem e um vegetal que aguenta alguns dias na geladeira. Repete o mesmo ingrediente em dois jantares e muda so o tempero.\n\nSalva pra usar na proxima ida ao mercado e manda pra quem sempre compra demais e cozinha de menos. Se quiser os jantares ja prontos, o PDF com 20 receitas de ate 15 minutos esta aqui no perfil, de graca.",
+  "hashtags": [
+    "#cardapiosemanal",
+    "#cozinhapratica",
+    "#jantarpratico",
+    "#receitasrapidas",
+    "#comidadeverdade"
+  ],
+  "legenda_arquivo": "2026_10_09_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_12765448_grocery-haul-kitchen-counter-vegetables.jpg",
+    "id": 12765448,
+    "fotografo": "Jenny Mavimiro",
+    "url": "https://www.pexels.com/photo/various-fruits-and-vegetables-on-a-tea-towel-12765448/",
+    "query": "grocery haul kitchen counter vegetables no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Lista de compras montada por jantar, nao por corredor",
+    "uso": {
+      "entrada": 4610,
+      "saida": 2567,
+      "cache_lido": 0,
+      "custo_usd": 0.0872,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_09_cozinha.yaml",
+  "gerado_em": "2026-10-09T10:03:17"
+}
