@@ -15,35 +15,35 @@
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa B",
-      "alt": "Fundo wash2 da linha Cozinha com foto de prato finalizado e título em campo sobre os últimos 30 segundos do jantar.",
-      "foto": "pexels_15953043_pasta-skillet-with-lemon-and-herbs.jpg"
+      "alt": "Lâmina de capa com foto de ovo frito sobre arroz em fundo wash2 da linha, com o título em campo escrito sobre a imagem.",
+      "foto": "pexels_39706746_fried-egg-over-rice.jpg"
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo wash1 bem claro com título no campo profundo sobre usar limão ou vinagre no fim do preparo.",
+      "alt": "Lâmina de fundo wash1 bem claro com título em campo profundo e três sugestões de base com ovo por cima.",
       "foto": null
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo wash1 bem claro com título no campo profundo sobre acrescentar gordura depois de desligar o fogo.",
+      "alt": "Lâmina de fundo wash1 bem claro com título em campo profundo explicando o ponto do ovo mexido cremoso.",
       "foto": null
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo wash1 bem claro com título no campo profundo e lista de três opções crocantes para finalizar o prato.",
+      "alt": "Lâmina de fundo wash1 bem claro com título em campo profundo descrevendo a fritada feita com sobras na frigideira.",
       "foto": null
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF e botão no tom de acento.",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto em creme e botão no tom de acento convidando a pegar o PDF gratuito.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_10_10_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Fundo wash2 da linha Cozinha com kicker e título em campo convidando a deslizar para o feed.",
-      "foto": "pexels_15953043_pasta-skillet-with-lemon-and-herbs.jpg",
+      "alt": "Story com fundo wash2 da linha, kicker, título em campo e convite curto pra ver o carrossel no feed.",
+      "foto": "pexels_39706746_fried-egg-over-rice.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "quiz"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Jantar rápido não fica sem graça por falta de receita, fica por falta de acabamento.\nSão os últimos 30 segundos na panela que mudam o prato: um ácido, uma gordura e algo crocante.\n\nO ácido entra fora do fogo, gotas de limão ou um fio de vinagre, e o sabor acorda na hora. A gordura vem depois de desligar, azeite ou um pedacinho de manteiga, e o molho fica mais redondo. A crocância é o toque final: castanha picada, pão torrado esfarelado, cebolinha.\n\nSão três gestos de poucos segundos que funcionam em arroz com ovo, macarrão simples, legume refogado, sopa de pacote.\n\nSalva pra lembrar no próximo dia corrido e manda pra alguém que vive dizendo que cozinha mal. Se quiser a parte de baixo do prato pronta também, meu PDF com 20 receitas de até 15 minutos está te esperando na bio.",
+  "legenda": "Jantar rápido com ovo resolve a noite em que não tem proteína pronta na geladeira.\n\nReceita simples: uma base que já existe, arroz de ontem, macarrão ou legume refogado, e o ovo por cima pra fechar o prato.\n\nO mexido fica cremoso quando sai do fogo antes de parecer pronto, porque a panela quente termina o ponto. E a fritada vira jantar inteiro com o que sobrou do almoço: legume picado, ovos batidos, tampa e seis minutos.\n\nNão é truque novo, é usar o que a cozinha já tem sem precisar de receita diferente todo dia.\n\nSalva pra lembrar no dia corrido e compartilha com quem sempre pergunta o que fazer de janta. Se quiser mais ideias curtas, o PDF com 20 receitas até 15 minutos está esperando por você.",
   "hashtags": [
     "#receitasrapidas",
-    "#cozinhapratica",
     "#jantarpratico",
+    "#cozinhapratica",
     "#comidadeverdade",
-    "#praticidadenacozinha"
+    "#receitasfaceis"
   ],
   "legenda_arquivo": "2026_10_10_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "quiz",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_15953043_pasta-skillet-with-lemon-and-herbs.jpg",
-    "id": 15953043,
-    "fotografo": "Valeria Boltneva",
-    "url": "https://www.pexels.com/photo/seafood-meal-in-a-bowl-15953043/",
-    "query": "pasta skillet with lemon and herbs no people",
+    "arquivo": "pexels_39706746_fried-egg-over-rice.jpg",
+    "id": 39706746,
+    "fotografo": "Jahra Tasfia Reza",
+    "url": "https://www.pexels.com/photo/fried-egg-on-steamed-rice-in-rustic-setting-39706746/",
+    "query": "fried egg over rice no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Tres acabamentos de fim de fogo que melhoram o prato",
+    "angulo": "Ovo como proteina rapida que fecha o jantar",
     "uso": {
-      "entrada": 4651,
-      "saida": 2748,
-      "cache_lido": 0,
-      "custo_usd": 0.092,
-      "tentativas": 1
+      "entrada": 9430,
+      "saida": 5890,
+      "cache_lido": 3924,
+      "custo_usd": 0.1944,
+      "tentativas": 2
     }
   },
   "brief": "content/briefs/2026_10_10_cozinha.yaml",
-  "gerado_em": "2026-10-10T16:27:25"
+  "gerado_em": "2026-10-10T16:33:30"
 }
