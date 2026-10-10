@@ -15,35 +15,35 @@
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa B",
-      "alt": "Fundo wash2 da linha Cozinha com foto de macarrao na frigideira e titulo em campo dizendo que a agua do macarrao e o ingrediente que falta.",
-      "foto": "pexels_37726976_pasta-in-skillet-with-sauce.jpg"
+      "alt": "Fundo wash2 da linha Cozinha com foto de prato finalizado e título em campo sobre os últimos 30 segundos do jantar.",
+      "foto": "pexels_15953043_pasta-skillet-with-lemon-and-herbs.jpg"
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo wash1 bem claro com titulo em campo profundo sobre guardar uma concha da agua antes de escorrer a massa.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre usar limão ou vinagre no fim do preparo.",
       "foto": null
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo wash1 bem claro com titulo em campo profundo explicando terminar a massa dentro da panela do molho.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre acrescentar gordura depois de desligar o fogo.",
       "foto": null
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo wash1 bem claro com titulo em campo profundo e tres situacoes de molho que a agua do cozimento resolve.",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e lista de três opções crocantes para finalizar o prato.",
       "foto": null
     },
     {
       "arquivo": "2026_10_10_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF de 20 receitas rapidas e botao no tom de acento.",
+      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF e botão no tom de acento.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_10_10_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Fundo wash2 da linha Cozinha com kicker novo no feed e titulo em campo pedindo pra nao jogar a agua do macarrao fora.",
-      "foto": "pexels_37726976_pasta-in-skillet-with-sauce.jpg",
+      "alt": "Fundo wash2 da linha Cozinha com kicker e título em campo convidando a deslizar para o feed.",
+      "foto": "pexels_15953043_pasta-skillet-with-lemon-and-herbs.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "quiz"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "A agua do macarrao e o ingrediente que quase todo mundo joga fora.\n\nMolho cremoso num jantar rapido nao precisa de creme de leite: precisa do amido que fica na agua do cozimento. Guarde uma concha antes de escorrer e volte a massa pra panela do molho por um minuto.\n\nE ali, mexendo, que o molho encorpa e gruda em cada fio. Serve pro tomate simples, pro alho e oleo e ate pro queijo ralado que sempre embola.\n\nSalva pra lembrar na proxima panela de macarrao e manda pra quem sempre escorre tudo na pia. Se quiser mais jantares de ate 15 minutos, o PDF com 20 receitas rapidas esta esperando por voce.",
+  "legenda": "Jantar rápido não fica sem graça por falta de receita, fica por falta de acabamento.\nSão os últimos 30 segundos na panela que mudam o prato: um ácido, uma gordura e algo crocante.\n\nO ácido entra fora do fogo, gotas de limão ou um fio de vinagre, e o sabor acorda na hora. A gordura vem depois de desligar, azeite ou um pedacinho de manteiga, e o molho fica mais redondo. A crocância é o toque final: castanha picada, pão torrado esfarelado, cebolinha.\n\nSão três gestos de poucos segundos que funcionam em arroz com ovo, macarrão simples, legume refogado, sopa de pacote.\n\nSalva pra lembrar no próximo dia corrido e manda pra alguém que vive dizendo que cozinha mal. Se quiser a parte de baixo do prato pronta também, meu PDF com 20 receitas de até 15 minutos está te esperando na bio.",
   "hashtags": [
     "#receitasrapidas",
-    "#jantarpratico",
     "#cozinhapratica",
-    "#comidacaseira",
-    "#receitasfaceis"
+    "#jantarpratico",
+    "#comidadeverdade",
+    "#praticidadenacozinha"
   ],
   "legenda_arquivo": "2026_10_10_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "quiz",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_37726976_pasta-in-skillet-with-sauce.jpg",
-    "id": 37726976,
-    "fotografo": "Canary Vista ES",
-    "url": "https://www.pexels.com/photo/creamy-mushroom-fettuccine-pasta-in-skillet-37726976/",
-    "query": "pasta in skillet with sauce no people",
+    "arquivo": "pexels_15953043_pasta-skillet-with-lemon-and-herbs.jpg",
+    "id": 15953043,
+    "fotografo": "Valeria Boltneva",
+    "url": "https://www.pexels.com/photo/seafood-meal-in-a-bowl-15953043/",
+    "query": "pasta skillet with lemon and herbs no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Agua do cozimento da massa liga o molho",
+    "angulo": "Tres acabamentos de fim de fogo que melhoram o prato",
     "uso": {
-      "entrada": 4633,
-      "saida": 2762,
+      "entrada": 4651,
+      "saida": 2748,
       "cache_lido": 0,
-      "custo_usd": 0.0922,
+      "custo_usd": 0.092,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_10_cozinha.yaml",
-  "gerado_em": "2026-10-10T10:03:28"
+  "gerado_em": "2026-10-10T16:27:25"
 }
