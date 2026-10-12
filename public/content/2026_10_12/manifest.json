@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_12",
+  "data_iso": "2026-10-12",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_12_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lamina de capa com fundo wash3 da linha Corpo e titulo em campo escrito cinco minutos no domingo evitam a desistencia.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_12_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de miolo com fundo bem claro wash1 e titulo no campo profundo explicando que o habito trava por nao caber na semana.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_12_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de miolo com fundo bem claro wash1 e lista de tres perguntas pra revisar a semana do habito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_12_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de miolo com fundo bem claro wash1 e titulo no campo profundo orientando mudar apenas um elemento do habito por semana.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_12_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lamina final com fundo campo profundo, texto em creme e botao no tom de acento convidando pro Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_12_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Lamina de stories com fundo wash3 da linha e titulo em campo convidando a ver as tres perguntas da revisao no feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_10_12_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Constancia nao quebra de uma vez: ela trava numa semana que nao cabia.\n\nPor isso a revisao de cinco minutos no domingo muda tanto. Em vez de esperar a proxima segunda pra recomecar com tudo, voce olha a semana que passou e pergunta em que dia o habito aconteceu de verdade, o que atrapalhou mais de uma vez e qual versao menor cabe nos proximos dias.\n\nDepois disso, ajuste uma coisa so. O tamanho, o horario ou o lugar. Mudar tudo ao mesmo tempo confunde e voce nunca descobre o que estava funcionando.\n\nE importante lembrar: semana ruim nao apaga o que voce ja construiu. Ela so mostra onde o plano estava apertado demais pra sua rotina.\n\nSalva esse post pra abrir no proximo domingo e manda pra uma amiga que esta cansada de recomecar. Se quiser um caminho pronto pra isso, o Destrava 21 esta no botao do perfil.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_12_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Revisao curta de domingo pra ajustar o habito",
+    "uso": {
+      "entrada": 4632,
+      "saida": 2904,
+      "cache_lido": 0,
+      "custo_usd": 0.0958,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_12_corpo.yaml",
+  "gerado_em": "2026-10-12T10:04:00"
+}
