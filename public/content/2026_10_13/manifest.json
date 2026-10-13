@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_13",
+  "data_iso": "2026-10-13",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_13_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de capa com fundo campo da linha e foto de uma tigela montada, com título em creme dizendo que tem noite que o jantar não precisa de fogo.",
+      "foto": "pexels_6750382_chickpea-bowl-with-greens.jpg"
+    },
+    {
+      "arquivo": "2026_10_13_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre a fórmula da tigela e três itens de base, proteína e algo fresco.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_13_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre proteína sem fogo e três opções já prontas.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_13_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que o acabamento com azeite, sal, molho e crocante transforma a tigela em refeição.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_13_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto em creme convidando a pegar o PDF de 20 receitas rápidas e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_13_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Lâmina de Stories com fundo campo da linha e título em creme sobre jantar de montagem, convidando a deslizar pro feed.",
+      "foto": "pexels_6750382_chickpea-bowl-with-greens.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_10_13_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar de montagem resolve a noite sem acender o fogo.\n\nTrês componentes na tigela e a refeição fica em pé em poucos minutos: uma base que sacia, uma proteína que já está pronta e algo fresco por cima.\n\nOvo cozido da véspera, grão de bico escorrido, frango desfiado do almoço. Tudo isso é proteína pronta esperando dentro da geladeira.\n\nO que faz virar refeição de verdade é o acabamento: fio de azeite, sal, um molho rápido e algo crocante. É esse detalhe que separa jantar de lanche improvisado.\n\nSalva pra lembrar no dia em que faltar energia pra cozinhar e manda pra quem também janta tarde. Se quiser mais ideias assim, o PDF com 20 receitas de até 15 minutos está esperando por você.",
+  "hashtags": [
+    "#jantarpratico",
+    "#receitasrapidas",
+    "#cozinhapratica",
+    "#comidadeverdade",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_10_13_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_6750382_chickpea-bowl-with-greens.jpg",
+    "id": 6750382,
+    "fotografo": "eat kubba",
+    "url": "https://www.pexels.com/photo/food-in-a-bowl-6750382/",
+    "query": "chickpea bowl with greens no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Jantar de montagem sem fogo em tres componentes",
+    "uso": {
+      "entrada": 4681,
+      "saida": 3009,
+      "cache_lido": 0,
+      "custo_usd": 0.0986,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_13_cozinha.yaml",
+  "gerado_em": "2026-10-13T10:03:42"
+}
