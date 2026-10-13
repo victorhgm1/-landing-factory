@@ -15,35 +15,35 @@
       "arquivo": "2026_10_13_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Lâmina de capa com fundo campo da linha e foto de uma tigela montada, com título em creme dizendo que tem noite que o jantar não precisa de fogo.",
-      "foto": "pexels_6750382_chickpea-bowl-with-greens.jpg"
+      "alt": "Foto de cubos de batata dourando numa frigideira, com titulo em creme sobre fundo verde campo.",
+      "foto": "pexels_14883750_diced-potatoes-in-skillet.jpg"
     },
     {
       "arquivo": "2026_10_13_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre a fórmula da tigela e três itens de base, proteína e algo fresco.",
+      "alt": "Fundo bem claro com titulo em verde profundo explicando o pre-cozimento de legumes duros no micro-ondas.",
       "foto": null
     },
     {
       "arquivo": "2026_10_13_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre proteína sem fogo e três opções já prontas.",
+      "alt": "Fundo bem claro com titulo em verde profundo sobre finalizar os legumes dourados na frigideira.",
       "foto": null
     },
     {
       "arquivo": "2026_10_13_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que o acabamento com azeite, sal, molho e crocante transforma a tigela em refeição.",
+      "alt": "Fundo bem claro com titulo em verde profundo e tres tempos de micro-ondas listados.",
       "foto": null
     },
     {
       "arquivo": "2026_10_13_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de CTA com fundo campo profundo, texto em creme convidando a pegar o PDF de 20 receitas rápidas e botão no tom de acento.",
+      "alt": "Fundo verde profundo com texto creme convidando a baixar o PDF e botao em cor de acento.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_10_13_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Lâmina de Stories com fundo campo da linha e título em creme sobre jantar de montagem, convidando a deslizar pro feed.",
-      "foto": "pexels_6750382_chickpea-bowl-with-greens.jpg",
+      "alt": "Fundo verde campo com titulo em creme sobre o micro-ondas adiantar o jantar e convite pra ver o feed.",
+      "foto": "pexels_14883750_diced-potatoes-in-skillet.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "pergunta aberta"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Jantar de montagem resolve a noite sem acender o fogo.\n\nTrês componentes na tigela e a refeição fica em pé em poucos minutos: uma base que sacia, uma proteína que já está pronta e algo fresco por cima.\n\nOvo cozido da véspera, grão de bico escorrido, frango desfiado do almoço. Tudo isso é proteína pronta esperando dentro da geladeira.\n\nO que faz virar refeição de verdade é o acabamento: fio de azeite, sal, um molho rápido e algo crocante. É esse detalhe que separa jantar de lanche improvisado.\n\nSalva pra lembrar no dia em que faltar energia pra cozinhar e manda pra quem também janta tarde. Se quiser mais ideias assim, o PDF com 20 receitas de até 15 minutos está esperando por você.",
+  "legenda": "O micro-ondas adianta a parte lenta do jantar, nao serve so pra esquentar sobra.\nBatata, mandioca, cenoura e abobora sao o que mais atrasa a panela num dia corrido.\n\nCubos pequenos, uma tigela com um fundo de agua, prato por cima e cinco minutos. Depois e escorrer, secar bem e mandar pra frigideira bem quente com um fio de azeite.\n\nEm tres minutos voce tem casquinha dourada e sabor de coisa feita com calma, sem ficar meia hora mexendo panela.\n\nSalva pra lembrar dos tempos na proxima correria e manda pra quem vive dizendo que legume demora. Se quiser mais ideias assim, o PDF com 20 receitas rapidas de ate 15 minutos esta liberado.",
   "hashtags": [
-    "#jantarpratico",
-    "#receitasrapidas",
     "#cozinhapratica",
-    "#comidadeverdade",
-    "#praticidadenacozinha"
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#praticidadenacozinha",
+    "#comidadeverdade"
   ],
   "legenda_arquivo": "2026_10_13_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "pergunta aberta",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_6750382_chickpea-bowl-with-greens.jpg",
-    "id": 6750382,
-    "fotografo": "eat kubba",
-    "url": "https://www.pexels.com/photo/food-in-a-bowl-6750382/",
-    "query": "chickpea bowl with greens no people",
+    "arquivo": "pexels_14883750_diced-potatoes-in-skillet.jpg",
+    "id": 14883750,
+    "fotografo": "Shameel mukkath",
+    "url": "https://www.pexels.com/photo/a-skillet-with-potatoes-and-pomegranate-seeds-14883750/",
+    "query": "diced potatoes in skillet no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Jantar de montagem sem fogo em tres componentes",
+    "angulo": "Micro-ondas como pre-cozimento do ingrediente duro",
     "uso": {
-      "entrada": 4681,
-      "saida": 3009,
+      "entrada": 4687,
+      "saida": 3060,
       "cache_lido": 0,
-      "custo_usd": 0.0986,
+      "custo_usd": 0.0999,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_13_cozinha.yaml",
-  "gerado_em": "2026-10-13T10:03:42"
+  "gerado_em": "2026-10-13T21:55:13"
 }
