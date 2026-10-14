@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_14",
+  "data_iso": "2026-10-14",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_14_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Foto de uma assadeira com legumes e frango assados, com fundo wash2 da linha e título em campo.",
+      "foto": "pexels_37100056_sheet-pan-roasted-vegetables-chicken.jpg"
+    },
+    {
+      "arquivo": "2026_10_14_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título sobre cortar tudo do mesmo tamanho no campo profundo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_14_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e três passos de montagem da assadeira.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_14_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título sobre os vinte minutos de forno no campo profundo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_14_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme e botão no tom de acento convidando a baixar o PDF.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_14_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories com fundo wash2 da linha e título em campo sobre jantar de assadeira única.",
+      "foto": "pexels_37100056_sheet-pan-roasted-vegetables-chicken.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_10_14_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar de forno numa assadeira só resolve a noite sem você ficar vigiando panela.\n\nLegume e proteína juntos, vinte minutos de forno, uma louça só pra lavar.\n\nO segredo está no corte: pedaços de tamanho parecido terminam de assar na mesma hora. O que é mais duro vai embaixo, encostado na assadeira, e a proteína fica por cima.\n\nCamada única, sempre. Comida amontoada solta água e acaba cozinhando no vapor em vez de dourar.\n\nSalva pra lembrar no próximo dia corrido e manda pra quem jura que não tem tempo de cozinhar. Se quiser mais ideias assim, o PDF com 20 receitas rápidas de até 15 min está esperando por você.",
+  "hashtags": [
+    "#jantarpratico",
+    "#receitasrapidas",
+    "#cozinhapratica",
+    "#comidadeverdade",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_10_14_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_37100056_sheet-pan-roasted-vegetables-chicken.jpg",
+    "id": 37100056,
+    "fotografo": "Lionel Ntasano",
+    "url": "https://www.pexels.com/photo/baked-chicken-with-roasted-vegetables-in-kitchen-37100056/",
+    "query": "sheet pan roasted vegetables chicken no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Jantar de assadeira unica com tempo passivo de forno",
+    "uso": {
+      "entrada": 4699,
+      "saida": 2625,
+      "cache_lido": 0,
+      "custo_usd": 0.0891,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_14_cozinha.yaml",
+  "gerado_em": "2026-10-14T10:02:45"
+}
