@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_15",
+  "data_iso": "2026-10-15",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_15_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina com fundo wash4 da linha Corpo e título em campo dizendo que mudar tudo de uma vez é o que te faz parar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_15_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando por que vários hábitos ao mesmo tempo não se sustentam.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_15_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e três critérios para escolher o primeiro hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_15_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo dizendo quando faz sentido somar um segundo hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_15_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina com fundo campo profundo, texto creme e botão no tom de acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_15_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 da linha Corpo e título em campo convidando a ver o carrossel no feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_10_15_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Mudar tudo de uma vez é o jeito mais rápido de parar no meio da semana.\n\nHábito novo gasta atenção, e atenção é justamente o que está curto numa rotina corrida. Quando você começa cinco coisas juntas, elas competem entre si e nenhuma vira automática.\n\nEscolher um só parece pouco, mas é o que sobrevive ao dia bagunçado. Pega aquele que facilita os outros, que cabe até no seu dia mais cheio e que não depende de mais ninguém pra acontecer.\n\nO segundo entra depois, quando o primeiro já roda quase sem você pensar. Sem pressa.\n\nSalva pra lembrar na hora de recomeçar e manda pra uma amiga que também quer mudar tudo de uma vez. Se quiser um caminho pronto pra isso, o Destrava 21 está esperando no meu perfil.",
+  "hashtags": [
+    "#constancia",
+    "#habitossaudaveis",
+    "#rotinacorrida",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_15_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Um habito por vez em vez de reformar tudo",
+    "uso": {
+      "entrada": 4653,
+      "saida": 2871,
+      "cache_lido": 0,
+      "custo_usd": 0.095,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_15_corpo.yaml",
+  "gerado_em": "2026-10-15T10:02:15"
+}
