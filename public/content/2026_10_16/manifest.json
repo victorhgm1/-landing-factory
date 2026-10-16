@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_16",
+  "data_iso": "2026-10-16",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_16_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lâmina de capa com fundo wash3 e título em campo dizendo que antes de desistir do hábito é melhor trocar o horário.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_16_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e título no campo profundo explicando que o horário errado parece falta de vontade.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_16_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e lista de três passos pra encontrar a janela real do dia.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_16_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e texto sobre o sinal de que o horário escolhido é o certo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_16_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina final com fundo campo profundo, texto creme e botão no acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_16_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 e título em campo convidando a deslizar pro feed sobre trocar o horário do hábito.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_10_16_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Hábito que não cola pode ser só horário errado, não falta de vontade.\nAntes de desistir, teste mover o hábito pra outra hora do dia.\n\nA gente costuma marcar o autocuidado justo no pedaço mais apertado da rotina: o fim da tarde com casa cheia, o meio da manhã de reunião atrás de reunião. Aí não acontece, e a conclusão rápida é que o problema é você.\n\nNa maioria das vezes, o problema é o encaixe. Procure a brecha que já é mais calma, prefira um horário que dependa só de você e dê uma semana de teste antes de concluir qualquer coisa.\n\nQuando a hora é a certa, você começa sem negociar com a própria cabeça. E é isso que segura a constância na semana ruim.\n\nSalva pra lembrar no próximo dia em que pensar em largar, e manda pra uma amiga que anda se cobrando demais. Se quiser um caminho já organizado, o Destrava 21 te espera no link da bio.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_16_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Trocar o horario do habito antes de desistir dele",
+    "uso": {
+      "entrada": 4659,
+      "saida": 2453,
+      "cache_lido": 0,
+      "custo_usd": 0.0846,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_16_corpo.yaml",
+  "gerado_em": "2026-10-16T10:02:06"
+}
