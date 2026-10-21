@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_21",
+  "data_iso": "2026-10-21",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_21_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Capa com fundo campo e foto de grão-de-bico dourado na frigideira, com o título em creme dizendo que o jantar mais rápido da semana mora na lata.",
+      "foto": "pexels_35369047_chickpea-skillet-dish.jpg"
+    },
+    {
+      "arquivo": "2026_10_21_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo explicando que escorrer, enxaguar e secar melhora o sabor do grão.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_21_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo e lista de três combinações rápidas feitas com conservas.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_21_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo dizendo que cinco minutos de panela bastam para o ingrediente já cozido.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_21_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina final com fundo verde profundo, texto em creme convidando a baixar o PDF e botão em cor de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_21_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories com fundo campo e título em creme sobre a lata que vira jantar em cinco minutos, convidando a deslizar pro feed.",
+      "foto": "pexels_35369047_chickpea-skillet-dish.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_10_21_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar em cinco minutos começa na lata que já está na sua despensa.\nGrão-de-bico, feijão branco, atum, milho e tomate pelado chegam cozidos: metade do trabalho já foi feita por você antes mesmo de abrir a panela.\n\nO truque é escorrer, enxaguar e secar. Sem a salmoura, o sabor fica limpo e o grão doura de verdade numa frigideira quente em vez de cozinhar de novo.\n\nComo o ingrediente já está pronto, o fogo serve só pra dar gosto. Tempere no começo do refogado, junte um verde picado fino e sirva com o arroz de ontem.\n\nSalva esse post pra lembrar na próxima correria e manda pra quem sempre abre a geladeira sem ideia. Se quiser mais jantares rápidos, o PDF com vinte receitas de até quinze minutos está te esperando.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#praticidadenacozinha",
+    "#comidadeverdade"
+  ],
+  "legenda_arquivo": "2026_10_21_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_35369047_chickpea-skillet-dish.jpg",
+    "id": 35369047,
+    "fotografo": "Vural Yavas",
+    "url": "https://www.pexels.com/photo/delicious-spiced-chickpeas-in-a-black-bowl-35369047/",
+    "query": "chickpea skillet dish no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Conservas ja cozidas viram jantar em minutos",
+    "uso": {
+      "entrada": 4708,
+      "saida": 2934,
+      "cache_lido": 0,
+      "custo_usd": 0.0969,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_21_cozinha.yaml",
+  "gerado_em": "2026-10-21T10:02:46"
+}
