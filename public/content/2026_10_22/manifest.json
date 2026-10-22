@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_22",
+  "data_iso": "2026-10-22",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_22_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Capa com fundo wash2 da linha Cozinha, foto de filés temperados em saquinhos sobre a bancada e título em campo dizendo que congelar a carne em bloco atrasa o jantar.",
+      "foto": "pexels_5769375_seasoned-chicken-fillets-freezer-bags.jpg"
+    },
+    {
+      "arquivo": "2026_10_22_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre porcionar a carne no tamanho de um jantar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_22_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e lista de três temperos para colocar na carne antes de congelar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_22_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando achatar o saquinho em camada fina antes de congelar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_22_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no tom de acento convidando a pegar o PDF com 20 receitas rápidas.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_22_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash2 da linha Cozinha e título em campo dizendo que o congelador adianta o jantar de terça.",
+      "foto": "pexels_5769375_seasoned-chicken-fillets-freezer-bags.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_10_22_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Congelar a carne em bloco é o que faz o jantar demorar uma hora.\nPorção fina e já temperada muda o jogo: do congelador direto pra panela.\n\nQuando você chega do mercado, separa a bandeja em porções de uma refeição, joga o tempero no saquinho e achata bem antes de fechar. O ar sai, o pacote fica deitado e empilhado, e o tempo no freezer ainda faz o tempero entrar na carne.\n\nNo dia corrido, a parte chata já está feita. Você só esquenta a frigideira e cuida do acompanhamento enquanto a proteína doura.\n\nSalva pra lembrar na próxima compra e manda pra quem sempre esquece de descongelar. Se quiser mais ideias de jantar rápido, o PDF com 20 receitas de até 15 minutos está no perfil.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#praticidadenacozinha",
+    "#marmitasaudavel"
+  ],
+  "legenda_arquivo": "2026_10_22_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_5769375_seasoned-chicken-fillets-freezer-bags.jpg",
+    "id": 5769375,
+    "fotografo": "Leeloo The First",
+    "url": "https://www.pexels.com/photo/seasoned-raw-chicken-breasts-on-cutting-board-5769375/",
+    "query": "seasoned chicken fillets freezer bags no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Congelar a proteina porcionada, temperada e em camada fina",
+    "uso": {
+      "entrada": 4709,
+      "saida": 4693,
+      "cache_lido": 0,
+      "custo_usd": 0.1409,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_22_cozinha.yaml",
+  "gerado_em": "2026-10-22T10:02:18"
+}
