@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_23",
+  "data_iso": "2026-10-23",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_23_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de fundo wash4 da linha Corpo com o título Dificulte o desvio em vez de brigar com você em campo escuro.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_23_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro wash1 com o título O caminho mais curto sempre vence e um texto curto sobre mudar o que está à mão.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_23_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro wash1 com o título Três atritos que valem a pena e uma lista de três ajustes simples de ambiente.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_23_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro wash1 com o título Não é proibir, é adiar e um texto sobre ganhar dez segundos de consciência.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_23_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando pro Destrava 21 e botão no tom de acento com link na bio.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_23_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story de fundo wash4 da linha Corpo com o título Dificulte o desvio, não a sua vida e convite pra deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_10_23_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Hábito que sobrevive à semana ruim não depende de força de vontade, depende do que está mais perto da sua mão.\n\nNa correria a gente pega o atalho. Celular na mesa de cabeceira, controle no sofá, aplicativo a um toque. Nada disso é falha de caráter, é desenho de ambiente.\n\nA virada é simples: em vez de empurrar o hábito bom morro acima, coloque dez segundos a mais no caminho do desvio. Carregador na cozinha. Controle na gaveta. Tela inicial mais vazia. Só isso já devolve a chance de escolher.\n\nSalva pra testar hoje à noite e compartilha com uma amiga que anda se culpando à toa. Se quiser montar isso com método, o Destrava 21 te guia pelo passo a passo.",
+  "hashtags": [
+    "#habitossaudaveis",
+    "#constancia",
+    "#autocuidado",
+    "#rotinacorrida",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_23_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Criar atrito no desvio em vez de forcar vontade",
+    "uso": {
+      "entrada": 4673,
+      "saida": 2842,
+      "cache_lido": 0,
+      "custo_usd": 0.0944,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_23_corpo.yaml",
+  "gerado_em": "2026-10-23T10:01:51"
+}
