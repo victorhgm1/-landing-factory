@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_24",
+  "data_iso": "2026-10-24",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_24_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lâmina de capa com fundo wash3 e título em campo escuro dizendo que o hábito não pode depender de mais ninguém.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_24_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo em fundo wash1 bem claro com o título sobre o teste da dependência e um texto de pergunta única.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_24_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo em fundo wash1 com título sobre ter uma versão própria do hábito e lista de três alternativas independentes.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_24_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de miolo em fundo wash1 com título sobre avisar sem pedir permissão e texto explicando a diferença.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_24_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme convidando pro Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_24_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 e título em campo escuro sobre hábito que depende dos outros, convidando a deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_10_24_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Hábito que depende de outra pessoa não sobrevive a uma semana cheia.\n\nA aula foi cancelada, a amiga desmarcou, o horário do seu marido mudou. E aí o seu movimento, a sua pausa, os seus dez minutos somem junto. Não foi falta de vontade, foi desenho frágil.\n\nFaz o teste: pra esse hábito acontecer hoje, alguém precisa chegar na hora, liberar a agenda ou mudar de ideia? Se a resposta for sim, cria uma versão menor que roda só com você e com o que já tem em casa.\n\nAvisar a casa do seu horário ajuda. Esperar aprovação pra começar, não.\n\nSalva pra lembrar no próximo dia bagunçado e manda pra quem vive remarcando o próprio cuidado. Se quiser montar isso com método, o Destrava 21 te mostra o caminho em passos curtos pelo botão aqui do perfil.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#autocuidado",
+    "#habitossaudaveis",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_24_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Hábito desenhado pra não depender de outra pessoa",
+    "uso": {
+      "entrada": 4698,
+      "saida": 2902,
+      "cache_lido": 0,
+      "custo_usd": 0.096,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_24_corpo.yaml",
+  "gerado_em": "2026-10-24T10:02:29"
+}
