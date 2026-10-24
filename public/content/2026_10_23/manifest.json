@@ -15,35 +15,35 @@
       "arquivo": "2026_10_23_-_Carrossel_Corpo_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Lâmina de fundo wash4 da linha Corpo com o título Dificulte o desvio em vez de brigar com você em campo escuro.",
+      "alt": "Lâmina de capa com fundo wash4 da linha Corpo e título em campo dizendo que me cuidar mais é intenção, não hábito.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro wash1 com o título O caminho mais curto sempre vence e um texto curto sobre mudar o que está à mão.",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro e título no campo profundo explicando por que a intenção vaga não vira hábito.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro wash1 com o título Três atritos que valem a pena e uma lista de três ajustes simples de ambiente.",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro listando verbo, quando e onde como partes do hábito concreto.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro wash1 com o título Não é proibir, é adiar e um texto sobre ganhar dez segundos de consciência.",
+      "alt": "Lâmina de miolo com fundo wash1 bem claro mostrando a troca de uma meta vaga por uma ação óbvia.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de fundo campo profundo com texto creme convidando pro Destrava 21 e botão no tom de acento com link na bio.",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no tom de acento convidando a conhecer o Destrava 21.",
       "foto": null
     }
   ],
@@ -52,7 +52,7 @@
       "arquivo": "2026_10_23_-_Stories_Corpo_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Story de fundo wash4 da linha Corpo com o título Dificulte o desvio, não a sua vida e convite pra deslizar pro feed.",
+      "alt": "Story com fundo wash4 da linha Corpo e título em campo dizendo que a meta é vaga demais pra virar hábito.",
       "foto": null,
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
@@ -68,12 +68,12 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Hábito que sobrevive à semana ruim não depende de força de vontade, depende do que está mais perto da sua mão.\n\nNa correria a gente pega o atalho. Celular na mesa de cabeceira, controle no sofá, aplicativo a um toque. Nada disso é falha de caráter, é desenho de ambiente.\n\nA virada é simples: em vez de empurrar o hábito bom morro acima, coloque dez segundos a mais no caminho do desvio. Carregador na cozinha. Controle na gaveta. Tela inicial mais vazia. Só isso já devolve a chance de escolher.\n\nSalva pra testar hoje à noite e compartilha com uma amiga que anda se culpando à toa. Se quiser montar isso com método, o Destrava 21 te guia pelo passo a passo.",
+  "legenda": "Hábito não nasce de intenção: nasce de verbo, horário e lugar.\n\nMe cuidar mais, me mexer mais, me organizar melhor. Tudo isso soa bonito e não acontece, porque deixa a decisão pra um dia que já chega cheio.\n\nQuando você define o verbo (o que), o quando (depois de qual momento que já é automático) e o onde (em que canto da casa), a sua cabeça para de negociar. A ação fica óbvia demais pra adiar.\n\nE o melhor: hábito concreto é fácil de retomar. Você não precisa de motivação nova, só voltar pro mesmo verbo, no mesmo horário, no mesmo lugar.\n\nSalva pra reescrever suas metas hoje e manda pra uma amiga que vive recomeçando. Se quiser um caminho guiado, o Destrava 21 te espera.",
   "hashtags": [
-    "#habitossaudaveis",
     "#constancia",
-    "#autocuidado",
+    "#habitossaudaveis",
     "#rotinacorrida",
+    "#autocuidado",
     "#mulheresreais"
   ],
   "legenda_arquivo": "2026_10_23_-_Legenda_Corpo.txt",
@@ -91,15 +91,15 @@
   "foto": null,
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Criar atrito no desvio em vez de forcar vontade",
+    "angulo": "Trocar intenção vaga por hábito concreto: verbo, hora, lugar",
     "uso": {
-      "entrada": 4673,
-      "saida": 2842,
+      "entrada": 4681,
+      "saida": 2667,
       "cache_lido": 0,
-      "custo_usd": 0.0944,
+      "custo_usd": 0.0901,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_23_corpo.yaml",
-  "gerado_em": "2026-10-23T10:01:51"
+  "gerado_em": "2026-10-24T01:37:42"
 }
