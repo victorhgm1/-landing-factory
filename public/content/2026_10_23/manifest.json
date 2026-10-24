@@ -15,35 +15,35 @@
       "arquivo": "2026_10_23_-_Carrossel_Corpo_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Lâmina de capa com fundo wash4 da linha Corpo e título em campo dizendo que me cuidar mais é intenção, não hábito.",
+      "alt": "Lamina de capa com fundo wash4 da linha Corpo e titulo em campo dizendo que a desistencia costuma ter hora marcada.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de miolo com fundo wash1 bem claro e título no campo profundo explicando por que a intenção vaga não vira hábito.",
+      "alt": "Lamina de miolo com fundo wash1 bem claro e titulo em campo profundo explicando que o habito cai sempre no mesmo ponto da rotina.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de miolo com fundo wash1 bem claro listando verbo, quando e onde como partes do hábito concreto.",
+      "alt": "Lamina de miolo com fundo wash1 bem claro e lista de tres passos para identificar o momento em que o habito costuma cair.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de miolo com fundo wash1 bem claro mostrando a troca de uma meta vaga por uma ação óbvia.",
+      "alt": "Lamina de miolo com fundo wash1 bem claro e titulo em campo profundo sugerindo preparar apenas o minuto critico do dia.",
       "foto": null
     },
     {
       "arquivo": "2026_10_23_-_Carrossel_Corpo_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no tom de acento convidando a conhecer o Destrava 21.",
+      "alt": "Lamina final com fundo campo profundo, texto creme e botao no tom de acento convidando a conhecer o Destrava 21.",
       "foto": null
     }
   ],
@@ -52,7 +52,7 @@
       "arquivo": "2026_10_23_-_Stories_Corpo_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Story com fundo wash4 da linha Corpo e título em campo dizendo que a meta é vaga demais pra virar hábito.",
+      "alt": "Lamina de stories com fundo wash4 da linha Corpo e titulo em campo convidando a deslizar para o carrossel no feed.",
       "foto": null,
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
@@ -68,11 +68,11 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Hábito não nasce de intenção: nasce de verbo, horário e lugar.\n\nMe cuidar mais, me mexer mais, me organizar melhor. Tudo isso soa bonito e não acontece, porque deixa a decisão pra um dia que já chega cheio.\n\nQuando você define o verbo (o que), o quando (depois de qual momento que já é automático) e o onde (em que canto da casa), a sua cabeça para de negociar. A ação fica óbvia demais pra adiar.\n\nE o melhor: hábito concreto é fácil de retomar. Você não precisa de motivação nova, só voltar pro mesmo verbo, no mesmo horário, no mesmo lugar.\n\nSalva pra reescrever suas metas hoje e manda pra uma amiga que vive recomeçando. Se quiser um caminho guiado, o Destrava 21 te espera.",
+  "legenda": "A desistencia costuma ter hora marcada, e quase sempre e a mesma hora todo dia.\nConstancia nao some de uma vez: ela cai num ponto especifico da rotina corrida, aquele em que o cansaco encontra a casa baguncada.\n\nEm vez de culpar a falta de forca de vontade, vale observar: nos ultimos dias em que voce nao fez, o que estava acontecendo cinco minutos antes? Esse detalhe que se repete e o seu ponto.\n\nQuando voce enxerga o ponto, para de tentar consertar o dia inteiro. Da pra ajustar so ali: deixar o tenis perto da porta, mudar o horario, encurtar o habito pra tres minutos naquele momento.\n\nSalva pra lembrar no proximo dia dificil e manda pra uma amiga que anda se cobrando demais.\nSe quiser um caminho simples pra retomar sem culpa, o Destrava 21 te espera na bio.",
   "hashtags": [
     "#constancia",
-    "#habitossaudaveis",
     "#rotinacorrida",
+    "#habitossaudaveis",
     "#autocuidado",
     "#mulheresreais"
   ],
@@ -91,15 +91,15 @@
   "foto": null,
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Trocar intenção vaga por hábito concreto: verbo, hora, lugar",
+    "angulo": "Mapear o minuto exato em que voce desiste",
     "uso": {
-      "entrada": 4681,
-      "saida": 2667,
+      "entrada": 4693,
+      "saida": 2837,
       "cache_lido": 0,
-      "custo_usd": 0.0901,
+      "custo_usd": 0.0944,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_23_corpo.yaml",
-  "gerado_em": "2026-10-24T01:37:42"
+  "gerado_em": "2026-10-24T02:59:53"
 }
