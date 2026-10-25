@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_25",
+  "data_iso": "2026-10-25",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_25_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Foto de uma frigideira e uma panela no fogao, com titulo em creme sobre fundo campo da linha.",
+      "foto": "pexels_35225640_stovetop-skillet-and-saucepan.jpg"
+    },
+    {
+      "arquivo": "2026_10_25_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo bem claro com titulo no tom campo profundo explicando qual panela acender primeiro.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_25_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo bem claro com titulo no tom campo profundo e tres combinacoes de panelas simultaneas.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_25_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo bem claro com titulo no tom campo profundo e um limite de duas panelas por jantar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_25_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme e botao no tom de acento convidando a baixar o PDF gratis.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_25_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo campo da linha com titulo em creme convidando a deslizar para o feed.",
+      "foto": "pexels_35225640_stovetop-skillet-and-saucepan.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_10_25_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar rapido fica mais rapido quando voce usa duas bocas do fogao ao mesmo tempo.\n\nA gente costuma cozinhar em fila: primeiro o arroz, depois o frango, depois o legume. O fogao tem quatro bocas e a maior parte da noite so uma esta ligada.\n\nO truque e simples: acende primeiro o que demora mais e deixa cozinhando sozinho. Enquanto isso, a frigideira ao lado resolve a proteina. Quando o arroz terminar, o resto ja esta pronto.\n\nSo nao passe de duas panelas. Duas voce consegue acompanhar, quatro viram correria e louca empilhada.\n\nSalva pra lembrar na proxima noite corrida e manda pra quem cozinha sempre em fila. Se quiser, pega tambem o PDF gratis com 20 receitas de ate 15 minutos.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#praticidadenacozinha",
+    "#receitasfaceis"
+  ],
+  "legenda_arquivo": "2026_10_25_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_35225640_stovetop-skillet-and-saucepan.jpg",
+    "id": 35225640,
+    "fotografo": "Beth Fitzpatrick",
+    "url": "https://www.pexels.com/photo/antique-copper-cookware-on-vintage-stove-35225640/",
+    "query": "stovetop skillet and saucepan no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Usar duas bocas do fogao em paralelo",
+    "uso": {
+      "entrada": 4708,
+      "saida": 2954,
+      "cache_lido": 0,
+      "custo_usd": 0.0974,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_25_cozinha.yaml",
+  "gerado_em": "2026-10-25T10:01:57"
+}
