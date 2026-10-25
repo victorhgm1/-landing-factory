@@ -15,35 +15,35 @@
       "arquivo": "2026_10_25_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Foto de uma frigideira e uma panela no fogao, com titulo em creme sobre fundo campo da linha.",
-      "foto": "pexels_35225640_stovetop-skillet-and-saucepan.jpg"
+      "alt": "Lâmina de capa com fundo campo e título em creme sobre cozinhar legume junto com o arroz na mesma panela.",
+      "foto": "pexels_12669168_rice-with-vegetables-pot.jpg"
     },
     {
       "arquivo": "2026_10_25_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo bem claro com titulo no tom campo profundo explicando qual panela acender primeiro.",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo e lista de três momentos pra colocar cada legume no arroz.",
       "foto": null
     },
     {
       "arquivo": "2026_10_25_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo bem claro com titulo no tom campo profundo e tres combinacoes de panelas simultaneas.",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo explicando que a medida de água do arroz não muda.",
       "foto": null
     },
     {
       "arquivo": "2026_10_25_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Fundo bem claro com titulo no tom campo profundo e um limite de duas panelas por jantar.",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo e três acabamentos que transformam o arroz em jantar.",
       "foto": null
     },
     {
       "arquivo": "2026_10_25_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Fundo campo profundo com texto creme e botao no tom de acento convidando a baixar o PDF gratis.",
+      "alt": "Lâmina final com fundo campo profundo, texto creme e botão no tom de acento convidando a baixar o PDF de receitas rápidas.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_10_25_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Fundo campo da linha com titulo em creme convidando a deslizar para o feed.",
-      "foto": "pexels_35225640_stovetop-skillet-and-saucepan.jpg",
+      "alt": "Story com fundo campo e título em creme sobre cozinhar legume junto com o arroz, convidando a ver o feed.",
+      "foto": "pexels_12669168_rice-with-vegetables-pot.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "pergunta aberta"
@@ -68,12 +68,12 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Jantar rapido fica mais rapido quando voce usa duas bocas do fogao ao mesmo tempo.\n\nA gente costuma cozinhar em fila: primeiro o arroz, depois o frango, depois o legume. O fogao tem quatro bocas e a maior parte da noite so uma esta ligada.\n\nO truque e simples: acende primeiro o que demora mais e deixa cozinhando sozinho. Enquanto isso, a frigideira ao lado resolve a proteina. Quando o arroz terminar, o resto ja esta pronto.\n\nSo nao passe de duas panelas. Duas voce consegue acompanhar, quatro viram correria e louca empilhada.\n\nSalva pra lembrar na proxima noite corrida e manda pra quem cozinha sempre em fila. Se quiser, pega tambem o PDF gratis com 20 receitas de ate 15 minutos.",
+  "legenda": "Arroz e legume na mesma panela resolvem o jantar inteiro em um preparo só.\n\nEm vez de abrir outra panela pra cozinhar o legume, ele entra direto no arroz. O segredo é a ordem: o que é duro vai com a água, o que é macio entra nos minutos finais e as folhas só depois de desligar o fogo, com a tampa fechada.\n\nA medida de água não muda. O legume solta um pouco de líquido no caminho, então é só não mexer e deixar o arroz trabalhar sozinho.\n\nNa hora de servir, um ovo frito, um frango desfiado ou um pouco de atum por cima já fecham o prato. Azeite e limão no fim deixam tudo com cara de receita.\n\nSalva pra lembrar na próxima vez que o arroz estiver no fogo e compartilha com quem cozinha com pressa. Se quiser mais ideias assim, o PDF com 20 receitas de até 15 minutos está liberado no nosso perfil.",
   "hashtags": [
     "#receitasrapidas",
-    "#jantarpratico",
     "#cozinhapratica",
-    "#praticidadenacozinha",
+    "#jantarpratico",
+    "#comidadeverdade",
     "#receitasfaceis"
   ],
   "legenda_arquivo": "2026_10_25_-_Legenda_Cozinha.txt",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_35225640_stovetop-skillet-and-saucepan.jpg",
-    "id": 35225640,
-    "fotografo": "Beth Fitzpatrick",
-    "url": "https://www.pexels.com/photo/antique-copper-cookware-on-vintage-stove-35225640/",
-    "query": "stovetop skillet and saucepan no people",
+    "arquivo": "pexels_12669168_rice-with-vegetables-pot.jpg",
+    "id": 12669168,
+    "fotografo": "Pixel Senses",
+    "url": "https://www.pexels.com/photo/rice-with-vegetables-12669168/",
+    "query": "rice with vegetables pot no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Usar duas bocas do fogao em paralelo",
+    "angulo": "Cozinhar o legume junto com o arroz",
     "uso": {
-      "entrada": 4708,
-      "saida": 2954,
+      "entrada": 4707,
+      "saida": 4157,
       "cache_lido": 0,
-      "custo_usd": 0.0974,
+      "custo_usd": 0.1275,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_10_25_cozinha.yaml",
-  "gerado_em": "2026-10-25T10:01:57"
+  "gerado_em": "2026-10-25T14:38:24"
 }
