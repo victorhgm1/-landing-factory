@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_27",
+  "data_iso": "2026-10-27",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_27_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina com fundo wash4 da linha Corpo e título em campo dizendo que o hábito precisa caber na mala também.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_27_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que o hábito para por falta de cenário.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_27_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com três itens listando como seria a versão portátil do hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_27_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com texto orientando escolher a versão portátil antes da rotina mudar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_27_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando pro Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_27_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 da linha e título em campo sobre o hábito que cabe na mala, convidando a ver o feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_10_27_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "A rotina não quebra por preguiça: ela quebra quando o lugar muda.\n\nViagem, feriado, casa da sua mãe, criança em casa o dia inteiro. O cenário sai do lugar e o hábito vai junto, porque ele estava preso ao lugar, ao horário e ao objeto de sempre.\n\nA saída não é mais força de vontade. É combinar antes uma versão portátil do seu hábito: sem equipamento, sem horário fixo, sem lugar certo. Cinco minutos já contam como presença.\n\nDecidir isso enquanto a semana ainda está calma economiza a cabeça que você não vai ter no meio da bagunça.\n\nSalva pra lembrar antes da próxima mudança de rotina e compartilha com quem sempre recomeça do zero depois do feriado. Se quiser um caminho pronto, o Destrava 21 te mostra como ajustar sem abandonar.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_27_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Versão portátil do hábito quando a rotina muda",
+    "uso": {
+      "entrada": 4711,
+      "saida": 2951,
+      "cache_lido": 0,
+      "custo_usd": 0.0973,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_27_corpo.yaml",
+  "gerado_em": "2026-10-27T10:02:03"
+}
