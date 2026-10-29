@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_29",
+  "data_iso": "2026-10-29",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_29_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Capa com fundo campo da linha, foto de panela com água fervendo e título em creme dizendo que uma panela de água dá conta do jantar inteiro.",
+      "foto": "pexels_10608701_boiling-pot-pasta-vegetables.jpg"
+    },
+    {
+      "arquivo": "2026_10_29_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título no campo profundo e lista com a ordem de cozimento na mesma água.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_29_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título no campo profundo explicando retirar os alimentos com escumadeira e manter a água na panela.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_29_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título no campo profundo e lista de três passos pra montar o prato depois do cozimento.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_29_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto em creme convidando a baixar o PDF e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_29_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories com fundo campo da linha e título em creme sobre cozinhar o jantar todo em uma panela de água.",
+      "foto": "pexels_10608701_boiling-pot-pasta-vegetables.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_10_29_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Uma panela de água pode cozinhar o jantar inteiro, em sequência, sem empilhar louça.\nA ordem é simples: ovo primeiro, legume firme depois, massa por último.\n\nO truque é não escorrer. Pesca cada item com a escumadeira e a água continua quente ali, pronta pra próxima etapa. Enquanto o ovo esfria, o legume cozinha. Enquanto a massa termina, você já monta a tigela.\n\nNo fim, é só juntar tudo com azeite, limão e queijo ralado. Jantar completo, uma panela suja.\n\nSalva pra lembrar da ordem no dia corrido e manda pra quem odeia lavar panela. Se quiser mais ideias assim, o PDF com 20 receitas rápidas até 15 min te espera.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#receitasfaceis",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_10_29_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_10608701_boiling-pot-pasta-vegetables.jpg",
+    "id": 10608701,
+    "fotografo": "Gianpiero Ferraro",
+    "url": "https://www.pexels.com/photo/uncooked-pasta-in-a-pot-with-boiling-water-10608701/",
+    "query": "boiling pot pasta vegetables no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Uma panela de agua cozinha tres itens em sequencia",
+    "uso": {
+      "entrada": 4706,
+      "saida": 2569,
+      "cache_lido": 0,
+      "custo_usd": 0.0878,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_29_cozinha.yaml",
+  "gerado_em": "2026-10-29T10:01:37"
+}
