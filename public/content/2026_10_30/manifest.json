@@ -1,0 +1,112 @@
+{
+  "data": "2026_10_30",
+  "data_iso": "2026-10-30",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_30_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Fundo wash2 da linha Cozinha com foto de ingredientes cortados em potinhos e o título em campo sobre ligar o fogo só depois de tudo cortado.",
+      "foto": "pexels_37238875_prepped-chopped-vegetables-bowls.jpg"
+    },
+    {
+      "arquivo": "2026_10_30_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre deixar a bancada pronta antes de usar a panela.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_30_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e lista de três itens que ficam prontos na bancada.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_30_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo explicando que a panela não espera o ingrediente que falta.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_30_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF de 20 receitas rápidas e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_30_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash2 da linha Cozinha com kicker novo no feed e título em campo sobre o preparo que faz o jantar fluir.",
+      "foto": "pexels_37238875_prepped-chopped-vegetables-bowls.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_10_30_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar rápido começa antes de ligar o fogo.\n\nCortar, medir e deixar tudo na bancada transforma a panela numa sequência sem pausa, e é isso que encurta o preparo de verdade.\n\nQuando o fogo acende com metade dos ingredientes ainda na geladeira, a cebola queima enquanto você procura o alho. O preparo feito antes some com essa correria.\n\nDois minutos de bancada resolvem: tempero medido num pires, legume cortado todo no mesmo tamanho, proteína seca no papel e um pote pras cascas.\n\nSalva pra lembrar no próximo dia apertado e manda pra quem cozinha com pressa. No PDF gratuito tem 20 receitas de até 15 minutos com os passos já na ordem.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#cozinhapratica",
+    "#jantarpratico",
+    "#praticidadenacozinha",
+    "#receitasfaceis"
+  ],
+  "legenda_arquivo": "2026_10_30_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_37238875_prepped-chopped-vegetables-bowls.jpg",
+    "id": 37238875,
+    "fotografo": "Diana ✨",
+    "url": "https://www.pexels.com/photo/close-up-of-ingredients-for-meal-preparation-37238875/",
+    "query": "prepped chopped vegetables bowls no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Preparar e medir tudo antes de ligar o fogo",
+    "uso": {
+      "entrada": 4712,
+      "saida": 2569,
+      "cache_lido": 0,
+      "custo_usd": 0.0878,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_30_cozinha.yaml",
+  "gerado_em": "2026-10-30T10:01:42"
+}
