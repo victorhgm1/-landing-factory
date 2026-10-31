@@ -1,0 +1,105 @@
+{
+  "data": "2026_10_31",
+  "data_iso": "2026-10-31",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_10_31_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de capa com fundo wash4 da linha Corpo e título em campo sobre pegar carona num hábito antigo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_31_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro explicando por que marcar o hábito em horário solto costuma falhar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_31_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 com lista de três passos para ancorar um hábito novo em um já existente.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_31_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 com dois exemplos práticos de hábitos ancorados em rotinas que já existem.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_10_31_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_10_31_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 da linha Corpo e título em campo convidando a ver o carrossel sobre ancorar hábitos.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_10_31_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Hábito novo não cola em horário solto: cola em cima de um hábito que já existe.\n\nSe você já tentou começar alguma coisa às sete da manhã e isso nunca aconteceu, talvez o problema não seja falta de vontade. É que o horário sozinho não lembra de você.\n\nA saída é dar carona. Pegue algo que já acontece todo dia no piloto automático e encaixe o hábito novo logo depois, no mesmo lugar. Escovar os dentes e alongar dois minutos. Fechar o computador e dar uma volta no quarteirão.\n\nNos dias ruins, vale a versão curta. O que importa é manter a sequência viva, não fazer bonito.\n\nSalva pra lembrar na hora de montar a sua e manda pra uma amiga que vive recomeçando. Se quiser fazer isso com acompanhamento, o Destrava 21 te guia pelo método D.R.A. em passos curtos.",
+  "hashtags": [
+    "#habitossaudaveis",
+    "#constancia",
+    "#rotinacorrida",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_10_31_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ancorar o habito novo num ja automatico",
+    "uso": {
+      "entrada": 4715,
+      "saida": 2585,
+      "cache_lido": 0,
+      "custo_usd": 0.0882,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_10_31_corpo.yaml",
+  "gerado_em": "2026-10-31T10:01:47"
+}
