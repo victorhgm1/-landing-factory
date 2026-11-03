@@ -1,0 +1,112 @@
+{
+  "data": "2026_11_03",
+  "data_iso": "2026-11-03",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_03_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Capa com foto de panela e chaleira com água fervendo sobre fundo wash2 da linha, com o título em campo dizendo que a água já fervendo é o atalho do jantar de semana.",
+      "foto": "pexels_5015375_kettle-pouring-boiling-water-pot.jpg"
+    },
+    {
+      "arquivo": "2026_11_03_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título em campo profundo explicando ligar a chaleira antes de cortar os ingredientes.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_03_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título em campo profundo dizendo que menos água na panela ferve mais rápido.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_03_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com o título em campo profundo e três usos da água fervente já pronta.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_03_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no tom de acento convidando a baixar o PDF com 20 receitas rápidas.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_03_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash2 da linha e título em campo falando da água fervendo antes do preparo, convidando a deslizar pro feed.",
+      "foto": "pexels_5015375_kettle-pouring-boiling-water-pot.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_11_03_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar rápido começa antes do fogo: com a água já fervendo.\nParece bobo, mas é o passo que mais encurta a receita de dia corrido.\n\nA chaleira ferve mais rápido que a panela e trabalha sozinha enquanto você corta o resto. Quando a frigideira esquenta, a água já está lá, pronta pra cozinhar a massa, escaldar o legume duro ou hidratar o cuscuz.\n\nE um detalhe que quase ninguém conta: água demais só atrasa. Cubra o alimento e pronto.\n\nSalva pra lembrar na próxima correria e manda pra quem chega em casa sem ideia do que fazer. Se quiser as 20 receitas rápidas até 15 min em PDF, elas estão esperando no meu perfil.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#praticidadenacozinha",
+    "#receitasfaceis"
+  ],
+  "legenda_arquivo": "2026_11_03_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_5015375_kettle-pouring-boiling-water-pot.jpg",
+    "id": 5015375,
+    "fotografo": "Lucas George Wendt",
+    "url": "https://www.pexels.com/photo/close-up-of-kettle-and-cooking-pot-on-stove-5015375/",
+    "query": "kettle pouring boiling water pot no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Agua fervendo pronta antes de comecar o preparo",
+    "uso": {
+      "entrada": 4712,
+      "saida": 3233,
+      "cache_lido": 0,
+      "custo_usd": 0.1044,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_03_cozinha.yaml",
+  "gerado_em": "2026-11-03T10:02:06"
+}
