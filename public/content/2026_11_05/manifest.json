@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_05",
+  "data_iso": "2026-11-05",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_05_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lâmina com fundo wash3 da linha Corpo e título em campo dizendo que a semana ruim não precisa derrubar seu hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_05_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que o dia ruim é previsível.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_05_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e três exemplos de plano B pro hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_05_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo dizendo que plano B não é desistência.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_05_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando pro Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_05_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 da linha Corpo e título em campo convidando a deslizar pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_11_05_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Hábito que só funciona em semana boa não é hábito, é sorte.\n\nA rotina corrida trava quase sempre nos mesmos pontos: a reunião que estende, a noite curta, a criança que adoece. Como isso é previsível, dá pra decidir antes o que acontece com o seu hábito nesses dias.\n\nEscolha agora a versão reduzida: cinco minutos, outro horário, ou só deixar tudo pronto pra amanhã. Decidir no meio do caos quase sempre vira abandono, e voltar do zero custa muito mais energia do que seguir pela metade.\n\nPlano B não é desistir. É o que mantém a linha viva até a semana acalmar.\n\nSalva pra consultar no próximo dia caótico e manda pra uma amiga que anda se cobrando demais. Se quiser montar isso com método, o Destrava 21 te espera no meu perfil.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#mulheresreais",
+    "#autocuidado"
+  ],
+  "legenda_arquivo": "2026_11_05_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Plano B definido antes pra semana ruim",
+    "uso": {
+      "entrada": 4708,
+      "saida": 2925,
+      "cache_lido": 0,
+      "custo_usd": 0.0967,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_05_corpo.yaml",
+  "gerado_em": "2026-11-05T10:02:08"
+}
