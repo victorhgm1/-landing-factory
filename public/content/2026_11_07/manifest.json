@@ -15,35 +15,35 @@
       "arquivo": "2026_11_07_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa B",
-      "alt": "Capa com fundo wash2 da linha Cozinha, foto de legumes fatiados na tábua e título em campo sobre o corte decidir o tempo do jantar.",
-      "foto": "pexels_6077636_sliced-vegetables-cutting-board.jpg"
+      "alt": "Capa com fundo wash2 da linha Cozinha e foto de frango dourando na frigideira, com o titulo em campo escuro dizendo que panela lotada nao doura.",
+      "foto": "pexels_10432668_seared-chicken-pieces-skillet.jpg"
     },
     {
       "arquivo": "2026_11_07_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que corte fino cozinha mais rápido.",
+      "alt": "Lamina de fundo wash1 bem claro com titulo em campo profundo explicando por que a comida amontoada sai aguada.",
       "foto": null
     },
     {
       "arquivo": "2026_11_07_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e lista de três trocas de corte que aceleram o preparo.",
+      "alt": "Lamina de fundo wash1 bem claro com titulo em campo profundo e tres itens sobre dar espaco na panela.",
       "foto": null
     },
     {
       "arquivo": "2026_11_07_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre cortar os pedaços no mesmo tamanho.",
+      "alt": "Lamina de fundo wash1 bem claro com titulo em campo profundo dizendo que dourar em duas levas sai mais rapido.",
       "foto": null
     },
     {
       "arquivo": "2026_11_07_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de CTA com fundo campo profundo, texto creme e botão no tom de acento convidando a baixar o PDF gratuito.",
+      "alt": "Lamina de CTA com fundo campo profundo, texto creme e botao no tom de acento convidando a baixar o PDF gratis.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_11_07_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Stories com fundo wash2 da linha Cozinha e título em campo convidando a ver o carrossel sobre cortes no feed.",
-      "foto": "pexels_6077636_sliced-vegetables-cutting-board.jpg",
+      "alt": "Story com fundo wash2 da linha e titulo em campo escuro sobre panela lotada, convidando a deslizar pro feed.",
+      "foto": "pexels_10432668_seared-chicken-pieces-skillet.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "quiz"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Corte fino cozinha rápido: o jantar não demora pelo fogo, demora pelo tamanho do pedaço.\n\nReceita rápida começa na tábua. Cenoura em rodela fina, frango em tiras, batata em cubo pequeno: tudo encosta mais na panela e fica pronto antes.\n\nE um detalhe que muda o resultado: mantenha os pedaços parecidos entre si. Quando um vem grande e outro miúdo, um fica cru e o outro desmancha no mesmo prato.\n\nSalve pra lembrar na hora de picar e compartilhe com quem chega tarde em casa e ainda precisa resolver o jantar.\n\nSe quiser os cortes já prontos dentro de cada preparo, o PDF gratuito com 20 receitas de até 15 minutos está esperando no perfil.",
+  "legenda": "Panela lotada nao doura: ela cozinha a comida no proprio vapor.\n\nQuando voce joga o frango todo de uma vez na frigideira, a agua que sai fica presa ali dentro e nada cora. O resultado e aquele prato palido que parece sem tempero, mesmo tendo tempero.\n\nO ajuste e simples: uma camada so, um dedo de espaco entre os pedacos, panela ja quente. Se nao couber, faca em duas levas e junte tudo no final pra aquecer.\n\nParece que demora mais, mas doura em poucos minutos e o sabor muda totalmente. Vale pra frango, carne em tiras, legumes e ate batata.\n\nSalva pra lembrar na hora do jantar e manda pra quem sempre reclama que a comida fica aguada. Se quiser mais ideias prontas, o PDF com 20 receitas rapidas esta no meu perfil.",
   "hashtags": [
     "#receitasrapidas",
     "#cozinhapratica",
     "#jantarpratico",
-    "#praticidadenacozinha",
-    "#receitasfaceis"
+    "#comidadeverdade",
+    "#praticidadenacozinha"
   ],
   "legenda_arquivo": "2026_11_07_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "quiz",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_6077636_sliced-vegetables-cutting-board.jpg",
-    "id": 6077636,
-    "fotografo": "Teemu Matias",
-    "url": "https://www.pexels.com/photo/close-up-shot-of-a-knife-and-sliced-vegetables-on-a-wooden-chopping-board-6077636/",
-    "query": "sliced vegetables cutting board no people",
+    "arquivo": "pexels_10432668_seared-chicken-pieces-skillet.jpg",
+    "id": 10432668,
+    "fotografo": "RDNE Stock project",
+    "url": "https://www.pexels.com/photo/chunk-of-tuna-fish-meat-turned-on-frying-pan-by-kitchen-pincers-in-chefs-hand-10432668/",
+    "query": "seared chicken pieces skillet no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Espessura do corte controla o tempo de cozimento",
+    "angulo": "Dar espaco na panela pra dourar em vez de cozinhar",
     "uso": {
-      "entrada": 4715,
-      "saida": 2516,
+      "entrada": 4709,
+      "saida": 2238,
       "cache_lido": 0,
-      "custo_usd": 0.0865,
+      "custo_usd": 0.0795,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_11_07_cozinha.yaml",
-  "gerado_em": "2026-11-07T10:01:59"
+  "gerado_em": "2026-11-08T01:58:40"
 }
