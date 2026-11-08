@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_08",
+  "data_iso": "2026-11-08",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_08_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de fundo wash4 da linha Corpo com o título em campo destacado sobre o hábito começar na noite anterior.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_08_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando por que decidir de manhã é mais difícil.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_08_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e lista de três preparos rápidos pra noite.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_08_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo sobre o que fazer quando o preparo da véspera não aconteceu.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_08_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme e botão no tom de acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_08_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story de fundo wash4 da linha Corpo com kicker, título em campo e convite pra deslizar até o feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_11_08_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "O hábito que você quer de manhã se decide na noite anterior.\n\nPreparar o ambiente antes de dormir é o que transforma intenção em movimento: a roupa separada, a garrafa cheia, o tênis no caminho da porta.\n\nNão é força de vontade que falta. É que, às sete da manhã, cada passo extra pesa o dobro. Quando o caminho já está pronto, você só segue por ele.\n\nE se a véspera passar batida, faça a versão curta do que der e prepare a próxima noite. Preparar já é começar.\n\nSalva pra lembrar hoje à noite e manda pra uma amiga que vive recomeçando na segunda. Se quiser montar isso com apoio, o Destrava 21 te guia pelo método D.R.A.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_11_08_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Preparar o ambiente na véspera para o dia seguinte",
+    "uso": {
+      "entrada": 4699,
+      "saida": 2219,
+      "cache_lido": 0,
+      "custo_usd": 0.079,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_08_corpo.yaml",
+  "gerado_em": "2026-11-08T10:01:43"
+}
