@@ -1,0 +1,112 @@
+{
+  "data": "2026_11_10",
+  "data_iso": "2026-11-10",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_10_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Foto de uma panela larga com legumes coloridos sendo refogados, com o título em creme sobre fundo campo da linha.",
+      "foto": "pexels_19105514_vegetable-skillet-stir-fry.jpg"
+    },
+    {
+      "arquivo": "2026_11_10_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com o título em verde profundo explicando que os ingredientes duros entram primeiro.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_10_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com o título em verde profundo sobre os ingredientes de cozimento médio.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_10_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título em verde profundo e três itens curtos em lista sobre a ordem de preparo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_10_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo verde profundo com texto creme e botão em cor de acento convidando a pegar o PDF gratuito.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_10_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story de fundo campo da linha com título em creme sobre a ordem dos ingredientes na panela.",
+      "foto": "pexels_19105514_vegetable-skillet-stir-fry.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_11_10_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar pronto ao mesmo tempo começa pela ordem de entrada na panela, não pela pressa.\n\nQuando tudo cai junto, a cenoura fica dura e a folha murcha demais. A saída é simples: dividir os ingredientes em três levas antes de ligar o fogo.\n\nPrimeiro o que é duro e demora, depois o que cozinha em poucos minutos, e por último o que precisa só de um calor rápido. Entre uma leva e outra, tampa na panela pra segurar o vapor.\n\nÉ a mesma panela, o mesmo ingrediente, só a sequência muda. E o prato sai inteiro no ponto.\n\nSalva pra lembrar na hora do jantar e manda pra quem cozinha correndo. O PDF com 20 receitas rápidas de até 15 minutos está esperando no perfil.",
+  "hashtags": [
+    "#jantarpratico",
+    "#cozinhapratica",
+    "#receitasrapidas",
+    "#praticidadenacozinha",
+    "#comidadeverdade"
+  ],
+  "legenda_arquivo": "2026_11_10_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_19105514_vegetable-skillet-stir-fry.jpg",
+    "id": 19105514,
+    "fotografo": "Patrick",
+    "url": "https://www.pexels.com/photo/vegetables-in-a-stir-fry-19105514/",
+    "query": "vegetable skillet stir fry no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ordem de entrada dos ingredientes na panela por tempo",
+    "uso": {
+      "entrada": 4707,
+      "saida": 2930,
+      "cache_lido": 0,
+      "custo_usd": 0.0968,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_10_cozinha.yaml",
+  "gerado_em": "2026-11-10T10:02:44"
+}
