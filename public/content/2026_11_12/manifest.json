@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_12",
+  "data_iso": "2026-11-12",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_12_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Fundo wash4 da linha com o título em campo dizendo que escolher toda vez cansa mais que o próprio hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_12_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com o título no campo profundo explicando o gasto invisível de decidir antes de começar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_12_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com o título no campo profundo e três itens sobre manter lugar, vídeo e duração fixos.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_12_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com o título no campo profundo dizendo que na semana ruim a escolha já está feita.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_12_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a conhecer o Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_12_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash4 da linha com título em campo convidando a deslizar pro feed e montar a versão única do hábito.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_11_12_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Escolher toda vez cansa mais que o próprio hábito.\n\nConstância em casa costuma travar não na falta de vontade, mas na quantidade de decisões: qual exercício, onde, por quanto tempo, com qual roupa. Quando tudo isso está em aberto, o cansaço chega antes do começo.\n\nA saída é tirar o cardápio de opções. Um lugar fixo, um vídeo salvo, uma duração curta e sempre igual. Você decide uma vez, com calma, e nos outros dias só repete.\n\nIsso ajuda principalmente na semana ruim, quando sua cabeça não tem energia pra negociar. Se existe um caminho só, você vai por ele, mesmo que seja na versão mais curta.\n\nSalva pra lembrar amanhã e compartilha com uma amiga que vive recomeçando do zero. No Destrava 21 a gente monta isso junto, passo a passo, com o método D.R.A.",
+  "hashtags": [
+    "#constancia",
+    "#habitossaudaveis",
+    "#rotinacorrida",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_11_12_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Hábito com uma versão única pra poupar decisão",
+    "uso": {
+      "entrada": 4705,
+      "saida": 2857,
+      "cache_lido": 0,
+      "custo_usd": 0.095,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_12_corpo.yaml",
+  "gerado_em": "2026-11-12T10:02:25"
+}
