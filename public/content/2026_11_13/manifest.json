@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_13",
+  "data_iso": "2026-11-13",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_13_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lâmina com fundo wash3 da linha Corpo e título em campo dizendo que entre você e o hábito existem passos demais.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_13_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro wash1 com título em campo profundo sobre contar os passos entre você e o hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_13_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro wash1 com título em campo profundo e três sugestões para cortar duas etapas do hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_13_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro wash1 com título em campo profundo explicando que menos etapas sustentam o hábito na semana ruim.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_13_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina com fundo campo profundo, texto creme e botão no tom de acento convidando para o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_13_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 da linha e título em campo convidando a deslizar para o carrossel no feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_11_13_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Hábito que você adia não é falta de vontade: é etapa demais antes do começo.\n\nNa rotina corrida, cada decisão extra vira um motivo pra deixar pra amanhã.\n\nFaz um teste hoje: escreva tudo que acontece entre você sentada e o hábito acontecendo. Procurar a roupa, achar o tapete, escolher o vídeo, liberar o canto da sala. Cada item desses é um convite pra desistir.\n\nEscolha dois e resolva de uma vez só. Tapete aberto, roupa separada, vídeo já definido. Quando o caminho encurta, você consegue começar até nos dias bagunçados, e é isso que mantém a constância de pé.\n\nSalva pra fazer essa conta ainda hoje e compartilha com uma amiga que vive recomeçando. Se quiser companhia pra organizar isso com calma, o Destrava 21 te guia pelo método D.R.A.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#constancia",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_11_13_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Contar as etapas ate comecar e cortar duas",
+    "uso": {
+      "entrada": 4705,
+      "saida": 3401,
+      "cache_lido": 0,
+      "custo_usd": 0.1086,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_13_corpo.yaml",
+  "gerado_em": "2026-11-13T10:02:27"
+}
