@@ -1,0 +1,112 @@
+{
+  "data": "2026_11_14",
+  "data_iso": "2026-11-14",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_14_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de capa com foto de panela tampada soltando vapor no fogão, fundo campo da linha e título em creme dizendo que a tampa da panela é o atalho que você não usa.",
+      "foto": "pexels_32258106_covered-pot-steaming-stove.jpg"
+    },
+    {
+      "arquivo": "2026_11_14_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro explicando que o vapor preso pela tampa cozinha o alimento por cima e acelera o preparo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_14_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com três situações listadas sobre quando manter a panela tampada e quando destampar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_14_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro avisando que tampar o que precisa dourar faz o alimento soltar água e cozinhar.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_14_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina final de fundo campo profundo com texto creme convidando a baixar o PDF com 20 receitas rápidas e botão em cor de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_14_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story de fundo campo da linha com título em creme sobre a tampa da panela e convite para deslizar até o feed.",
+      "foto": "pexels_32258106_covered-pot-steaming-stove.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_11_14_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "A tampa da panela é o atalho de tempo mais barato da sua cozinha.\nEla prende o vapor, cozinha o alimento por cima também e tira minutos do jantar de terça à noite.\n\nA regra é simples: tampa fechada para cozinhar com pouca água, legume duro, arroz depois que a água some da superfície. Tampa aberta para reduzir molho e para dourar carne, cebola e legume que você quer corado.\n\nMesma panela, mesmo fogo, resultado diferente só pela tampa.\n\nSalva para lembrar na hora do preparo e manda para quem cozinha com pressa. Se quiser mais ideias de jantar rápido, o PDF com 20 receitas de até 15 minutos está esperando por você.",
+  "hashtags": [
+    "#cozinhapratica",
+    "#jantarpratico",
+    "#receitasrapidas",
+    "#praticidadenacozinha",
+    "#comidadeverdade"
+  ],
+  "legenda_arquivo": "2026_11_14_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_32258106_covered-pot-steaming-stove.jpg",
+    "id": 32258106,
+    "fotografo": "Daniel's Richard",
+    "url": "https://www.pexels.com/photo/steamy-cooking-in-a-lidded-pan-at-home-32258106/",
+    "query": "covered pot steaming stove no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Tampa da panela como atalho de tempo no fogao",
+    "uso": {
+      "entrada": 4710,
+      "saida": 2382,
+      "cache_lido": 0,
+      "custo_usd": 0.0831,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_14_cozinha.yaml",
+  "gerado_em": "2026-11-14T10:02:09"
+}
