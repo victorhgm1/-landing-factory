@@ -1,0 +1,112 @@
+{
+  "data": "2026_11_15",
+  "data_iso": "2026-11-15",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_15_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Fundo wash2 da linha Cozinha com foto de um pote de molho verde ao lado de ervas e o título dizendo que um molho coringa resolve o jantar da semana.",
+      "foto": "pexels_32921658_jar-of-green-herb-sauce.jpg"
+    },
+    {
+      "arquivo": "2026_11_15_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título em verde profundo e três itens com as partes do molho coringa.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_15_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título em verde profundo e três formas de usar o mesmo molho em pratos diferentes.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_15_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título em verde profundo explicando como guardar o molho na geladeira.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_15_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo verde campo profundo com texto creme convidando a pegar o PDF de receitas rápidas e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_15_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash2 da linha Cozinha e título em campo convidando a ver a fórmula do molho coringa no feed.",
+      "foto": "pexels_32921658_jar-of-green-herb-sauce.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_11_15_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Molho coringa pronto na geladeira é o atalho que salva o jantar de quinta-feira.\n\nReceita rápida de verdade é aquela que aproveita o que já está feito. Com um pote de molho pronto, arroz de ontem vira salada morna, legume assado ganha vida e frango grelhado deixa de ser sem graça.\n\nA fórmula é simples: uma gordura pra dar corpo, um ácido pra levantar e algo de sabor forte pra dar caráter. Azeite, limão e alho já resolvem. Iogurte, vinagre e mostarda também.\n\nFaz num domingo qualquer, guarda em pote com tampa e vai usando ao longo da semana. É o tipo de preparo que rende sem pedir tempo extra.\n\nSalva pra lembrar na hora das compras e manda pra quem sempre chega em casa sem ideia de jantar. Se quiser mais atalhos desse tipo, o PDF com 20 receitas rápidas de até 15 minutos está te esperando.",
+  "hashtags": [
+    "#receitasrapidas",
+    "#cozinhapratica",
+    "#jantarpratico",
+    "#comidadeverdade",
+    "#praticidadenacozinha"
+  ],
+  "legenda_arquivo": "2026_11_15_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_32921658_jar-of-green-herb-sauce.jpg",
+    "id": 32921658,
+    "fotografo": "DΛVΞ GΛRCIΛ",
+    "url": "https://www.pexels.com/photo/traditional-ecuadorian-cuisine-with-plantains-32921658/",
+    "query": "jar of green herb sauce no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Molho coringa guardado resolve varios jantares",
+    "uso": {
+      "entrada": 4712,
+      "saida": 2883,
+      "cache_lido": 0,
+      "custo_usd": 0.0956,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_15_cozinha.yaml",
+  "gerado_em": "2026-11-15T10:02:10"
+}
