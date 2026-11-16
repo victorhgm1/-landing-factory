@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_16",
+  "data_iso": "2026-11-16",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_16_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina com fundo wash4 e título em campo dizendo que o hábito não cai por preguiça e sim por interrupção.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_16_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando que a interrupção derruba o hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_16_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 com título no campo profundo e três passos pra combinar o tempo protegido com a casa.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_16_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 com título no campo profundo orientando a retomar do ponto onde parou.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_16_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme e botão no acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_16_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash4 e título em campo dizendo que a interrupção derruba o hábito, convidando a ir pro feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_11_16_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Interrupção derruba mais hábito do que preguiça, e quase ninguém percebe isso.\n\nVocê senta pra alongar, pra respirar, pra caminhar dez minutos. Aí alguém te chama, pede uma coisa rápida, e o seu tempo some. No fim do dia a conclusão injusta aparece: eu não consigo manter nada.\n\nA virada é simples e nada heroica: avisar antes. Diga o horário, diga quanto tempo dura, combine um sinal que as pessoas da casa reconheçam. Seu tempo deixa de ser invisível e passa a ser um compromisso que existe pros outros também.\n\nE se interromperem mesmo assim, volte do ponto onde parou. Dia pela metade ainda é dia feito.\n\nSalva pra combinar isso hoje e manda pra alguém que vive sendo chamada no meio. Se quiser um caminho pronto pra sustentar essa constância, o Destrava 21 te guia pelo método D.R.A.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#constancia",
+    "#vidademae",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_11_16_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Combinar tempo protegido com quem mora com voce",
+    "uso": {
+      "entrada": 4707,
+      "saida": 2685,
+      "cache_lido": 0,
+      "custo_usd": 0.0907,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_16_corpo.yaml",
+  "gerado_em": "2026-11-16T10:02:05"
+}
