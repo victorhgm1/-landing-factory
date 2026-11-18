@@ -1,0 +1,112 @@
+{
+  "data": "2026_11_18",
+  "data_iso": "2026-11-18",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "A",
+  "capa_fundo": "campo",
+  "capa_cores": {
+    "fundo": "campo",
+    "titulo": "creme",
+    "corpo": "creme"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_18_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Capa com fundo campo da linha, foto de legumes dourando na frigideira e título em creme dizendo que temperar só no fim deixa o jantar sem graça.",
+      "foto": "pexels_36198456_sauteed-vegetables-in-skillet.jpg"
+    },
+    {
+      "arquivo": "2026_11_18_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo bem claro com título em campo profundo sobre salgar o ingrediente ainda cru antes de ir pra panela.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_18_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina clara com título em campo profundo explicando o sal no refogado de cebola e alho.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_18_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina clara com título em campo profundo e lista de três passos pra ajustar o sal com o fogo já desligado.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_18_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando pro PDF de 20 receitas rápidas e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_18_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Stories com fundo campo da linha e título em creme sobre temperar em camadas, convidando a deslizar pro feed.",
+      "foto": "pexels_36198456_sauteed-vegetables-in-skillet.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "pergunta aberta"
+    },
+    {
+      "arquivo": "2026_11_18_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Tempero em camadas é o que separa o jantar sem graça do jantar gostoso, e não tem nada a ver com usar mais sal.\nÉ o mesmo tanto, repartido em três momentos do preparo: no ingrediente cru, no refogado e no fim, com o fogo desligado.\n\nQuando você joga tudo só no final, o sal fica por cima. A comida parece salgada na primeira garfada e sem gosto na terceira.\n\nRepartindo, cada parte do prato fica temperada por dentro: a proteína, a base de cebola e alho e o caldo que se forma na panela.\n\nE a última pitada, fora do fogo, é a que você controla melhor, porque aí já dá pra provar de verdade.\n\nSalva pra lembrar na hora de cozinhar e manda pra quem sempre tempera só no fim. Se quiser receita pronta já nessa ordem, o PDF com 20 receitas rápidas está te esperando.",
+  "hashtags": [
+    "#cozinhapratica",
+    "#receitasrapidas",
+    "#jantarpratico",
+    "#comidadeverdade",
+    "#comidacaseira"
+  ],
+  "legenda_arquivo": "2026_11_18_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "pergunta aberta",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_36198456_sauteed-vegetables-in-skillet.jpg",
+    "id": 36198456,
+    "fotografo": "Magda Ehlers",
+    "url": "https://www.pexels.com/photo/chopped-onions-sizzling-in-frying-pan-36198456/",
+    "query": "sauteed vegetables in skillet no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Temperar em camadas, nao so no fim do preparo",
+    "uso": {
+      "entrada": 4710,
+      "saida": 2575,
+      "cache_lido": 0,
+      "custo_usd": 0.0879,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_18_cozinha.yaml",
+  "gerado_em": "2026-11-18T10:01:55"
+}
