@@ -15,35 +15,35 @@
       "arquivo": "2026_11_18_-_Carrossel_Cozinha_01.png",
       "tipo": "Carrossel",
       "papel": "capa A",
-      "alt": "Capa com fundo campo da linha, foto de legumes dourando na frigideira e título em creme dizendo que temperar só no fim deixa o jantar sem graça.",
-      "foto": "pexels_36198456_sauteed-vegetables-in-skillet.jpg"
+      "alt": "Lâmina de capa com fundo campo da linha e título em creme sobre foto de tábua com legumes cortados.",
+      "foto": "pexels_8629083_cutting-board-chopped-vegetables.jpg"
     },
     {
       "arquivo": "2026_11_18_-_Carrossel_Cozinha_02.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina de fundo bem claro com título em campo profundo sobre salgar o ingrediente ainda cru antes de ir pra panela.",
+      "alt": "Lâmina de fundo bem claro com título no tom campo profundo e lista com a ordem de corte dos ingredientes.",
       "foto": null
     },
     {
       "arquivo": "2026_11_18_-_Carrossel_Cozinha_03.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina clara com título em campo profundo explicando o sal no refogado de cebola e alho.",
+      "alt": "Lâmina de fundo bem claro com título no tom campo profundo explicando a economia de tempo ao lavar a tábua uma vez só.",
       "foto": null
     },
     {
       "arquivo": "2026_11_18_-_Carrossel_Cozinha_04.png",
       "tipo": "Carrossel",
       "papel": "miolo",
-      "alt": "Lâmina clara com título em campo profundo e lista de três passos pra ajustar o sal com o fogo já desligado.",
+      "alt": "Lâmina de fundo bem claro com título no tom campo profundo sobre organizar os cortes por ordem de entrada na panela.",
       "foto": null
     },
     {
       "arquivo": "2026_11_18_-_Carrossel_Cozinha_05.png",
       "tipo": "Carrossel",
       "papel": "cta",
-      "alt": "Lâmina de fundo campo profundo com texto creme convidando pro PDF de 20 receitas rápidas e botão no tom de acento.",
+      "alt": "Lâmina final com fundo campo profundo, texto creme e botão no tom de acento convidando a baixar o PDF gratuito.",
       "foto": null
     }
   ],
@@ -52,8 +52,8 @@
       "arquivo": "2026_11_18_-_Stories_Cozinha_01.png",
       "tipo": "Stories",
       "papel": "stories post do dia",
-      "alt": "Stories com fundo campo da linha e título em creme sobre temperar em camadas, convidando a deslizar pro feed.",
-      "foto": "pexels_36198456_sauteed-vegetables-in-skillet.jpg",
+      "alt": "Story com fundo campo da linha e título em creme convidando a ver o carrossel sobre ordem de corte.",
+      "foto": "pexels_8629083_cutting-board-chopped-vegetables.jpg",
       "link": null,
       "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
       "sticker": "pergunta aberta"
@@ -68,13 +68,13 @@
       "sticker": "link"
     }
   ],
-  "legenda": "Tempero em camadas é o que separa o jantar sem graça do jantar gostoso, e não tem nada a ver com usar mais sal.\nÉ o mesmo tanto, repartido em três momentos do preparo: no ingrediente cru, no refogado e no fim, com o fogo desligado.\n\nQuando você joga tudo só no final, o sal fica por cima. A comida parece salgada na primeira garfada e sem gosto na terceira.\n\nRepartindo, cada parte do prato fica temperada por dentro: a proteína, a base de cebola e alho e o caldo que se forma na panela.\n\nE a última pitada, fora do fogo, é a que você controla melhor, porque aí já dá pra provar de verdade.\n\nSalva pra lembrar na hora de cozinhar e manda pra quem sempre tempera só no fim. Se quiser receita pronta já nessa ordem, o PDF com 20 receitas rápidas está te esperando.",
+  "legenda": "Cortar o jantar inteiro numa tábua só muda o ritmo da cozinha.\n\nA ordem é simples: começa pelo que vai cru, folhas, tomate, limão. Depois os legumes que vão pro fogo. A proteína crua fica por último, e só então a tábua e a faca vão pra pia.\n\nAssim você não para o preparo no meio pra lavar tudo de novo, e a pia não acumula três tábuas num jantar de quarta-feira.\n\nUm detalhe que ajuda ainda mais: empurre cada corte pra um canto da tábua, na ordem em que ele entra na panela. Na hora do fogo, é só ir puxando.\n\nSalva pra lembrar na próxima vez que for cozinhar com pressa e manda pra quem divide a cozinha com você. Se quiser preparos curtos pra testar isso hoje, o caderno com 20 receitas rápidas de até 15 minutos está liberado de graça.",
   "hashtags": [
     "#cozinhapratica",
     "#receitasrapidas",
     "#jantarpratico",
-    "#comidadeverdade",
-    "#comidacaseira"
+    "#praticidadenacozinha",
+    "#comidadeverdade"
   ],
   "legenda_arquivo": "2026_11_18_-_Legenda_Cozinha.txt",
   "sticker_sugestao": "pergunta aberta",
@@ -89,24 +89,24 @@
     "preco": "grátis"
   },
   "foto": {
-    "arquivo": "pexels_36198456_sauteed-vegetables-in-skillet.jpg",
-    "id": 36198456,
-    "fotografo": "Magda Ehlers",
-    "url": "https://www.pexels.com/photo/chopped-onions-sizzling-in-frying-pan-36198456/",
-    "query": "sauteed vegetables in skillet no people",
+    "arquivo": "pexels_8629083_cutting-board-chopped-vegetables.jpg",
+    "id": 8629083,
+    "fotografo": "Kampus Production",
+    "url": "https://www.pexels.com/photo/a-person-in-white-uniform-holding-green-vegetables-8629083/",
+    "query": "cutting board chopped vegetables no people",
     "fonte": "pexels"
   },
   "roteiro": {
     "gerado_por": "claude-opus-5",
-    "angulo": "Temperar em camadas, nao so no fim do preparo",
+    "angulo": "Uma tábua só, cortes na ordem do mais limpo ao mais sujo",
     "uso": {
-      "entrada": 4710,
-      "saida": 2575,
+      "entrada": 4709,
+      "saida": 2841,
       "cache_lido": 0,
-      "custo_usd": 0.0879,
+      "custo_usd": 0.0946,
       "tentativas": 1
     }
   },
   "brief": "content/briefs/2026_11_18_cozinha.yaml",
-  "gerado_em": "2026-11-18T10:01:55"
+  "gerado_em": "2026-11-18T12:11:49"
 }
