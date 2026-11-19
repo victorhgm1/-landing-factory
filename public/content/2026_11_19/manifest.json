@@ -1,0 +1,112 @@
+{
+  "data": "2026_11_19",
+  "data_iso": "2026-11-19",
+  "linha": "cozinha",
+  "linha_nome": "Cozinha",
+  "variante_capa": "B",
+  "capa_fundo": "wash2",
+  "capa_cores": {
+    "fundo": "wash2",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_19_-_Carrossel_Cozinha_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Fundo wash2 da linha Cozinha com foto de prateleira de despensa e o título dizendo que o jantar fica rápido quando a despensa está certa.",
+      "foto": "pexels_35285854_pantry-shelf-canned-goods.jpg"
+    },
+    {
+      "arquivo": "2026_11_19_-_Carrossel_Cozinha_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo e lista dos três grupos da prateleira.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_19_-_Carrossel_Cozinha_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo explicando como combinar um item de cada grupo.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_19_-_Carrossel_Cozinha_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Fundo wash1 bem claro com título no campo profundo sobre repor o item que foi usado.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_19_-_Carrossel_Cozinha_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Fundo campo profundo com texto creme convidando a baixar o PDF e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_19_-_Stories_Cozinha_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Fundo wash2 da linha com kicker novo no feed e título sobre a prateleira que resolve o jantar.",
+      "foto": "pexels_35285854_pantry-shelf-canned-goods.jpg",
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "quiz"
+    },
+    {
+      "arquivo": "2026_11_19_-_Stories_Cozinha_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo terracota com convite ao e-book gratuito de 20 receitas rápidas e o endereço da página em destaque no chip mostarda.",
+      "foto": null,
+      "link": "https://lp.destravaco.com.br/receitas-15min",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Jantar rápido começa na prateleira, não na panela.\n\nDespensa organizada em três grupos resolve a semana: uma proteína que não estraga, uma base de cozimento curto e algo que dá sabor.\n\nCom esses três em casa, você abre o armário e já enxerga a combinação. Escorre, aquece, tempera e serve. Nada de parar tudo pra ir ao mercado às oito da noite.\n\nO truque de manter isso vivo é simples: assim que abrir uma lata ou terminar um pacote, anote. Na compra seguinte, a prateleira volta completa.\n\nSalva pra montar a sua despensa no próximo mercado e manda pra quem sempre fica sem ideia de jantar. Se quiser receitas prontas que usam exatamente esses itens, o PDF com 20 receitas de até 15 minutos é gratuito.",
+  "hashtags": [
+    "#cozinhapratica",
+    "#jantarpratico",
+    "#receitasrapidas",
+    "#praticidadenacozinha",
+    "#cardapiosemanal"
+  ],
+  "legenda_arquivo": "2026_11_19_-_Legenda_Cozinha.txt",
+  "sticker_sugestao": "quiz",
+  "stories_oferta": {
+    "titulo": "20 Receitas Rápidas de até 15 Minutos",
+    "link": "https://lp.destravaco.com.br/receitas-15min"
+  },
+  "cta": {
+    "oferta": "20 Receitas Rápidas até 15 min (PDF grátis)",
+    "botao": "LINK NA BIO",
+    "link": "https://infoprodutos-hgm-0y14ry.subscribepage.io",
+    "preco": "grátis"
+  },
+  "foto": {
+    "arquivo": "pexels_35285854_pantry-shelf-canned-goods.jpg",
+    "id": 35285854,
+    "fotografo": "Magda Ehlers",
+    "url": "https://www.pexels.com/photo/vintage-grocery-store-shelves-with-canned-goods-35285854/",
+    "query": "pantry shelf canned goods no people",
+    "fonte": "pexels"
+  },
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Despensa em tres grupos resolve o jantar",
+    "uso": {
+      "entrada": 4720,
+      "saida": 2935,
+      "cache_lido": 0,
+      "custo_usd": 0.097,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_19_cozinha.yaml",
+  "gerado_em": "2026-11-19T10:03:05"
+}
