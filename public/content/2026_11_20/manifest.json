@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_20",
+  "data_iso": "2026-11-20",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "A",
+  "capa_fundo": "wash4",
+  "capa_cores": {
+    "fundo": "wash4",
+    "titulo": "campo",
+    "corpo": "campo"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_20_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa A",
+      "alt": "Lâmina de fundo wash4 da linha Corpo com o título em campo dizendo que a corrente de dias quebra fácil e que é melhor contar por semana.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_20_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo explicando por que a contagem de dias seguidos trava o hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_20_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo e três passos para montar o placar semanal do hábito.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_20_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lâmina de fundo wash1 bem claro com título no campo profundo mostrando que o dia perdido vira ajuste dentro da semana.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_20_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lâmina de fundo campo profundo com texto creme convidando para o Destrava 21 e botão no tom de acento.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_20_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story de fundo wash4 da linha Corpo com título em campo convidando a deslizar para o carrossel sobre contar o hábito por semana.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "enquete"
+    },
+    {
+      "arquivo": "2026_11_20_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Contar dias seguidos é o jeito mais rápido de desistir de um hábito bom.\n\nA conta por semana protege a constância: você define quantas vezes quer fazer de segunda a domingo e vai marcando. Um dia atravessado não apaga nada, só muda o dia em que você encaixa.\n\nEscolhe um número que caiba até na sua pior semana, não na semana ideal. Deixa o registro num lugar que você olha sem procurar. E, na segunda, o placar começa limpo.\n\nO ganho não é fazer mais. É continuar existindo no hábito depois de um tropeço.\n\nSalva pra montar o seu placar hoje e manda pra alguém que vive recomeçando do zero. Se quiser um caminho pronto pra escolher e sustentar o hábito, o Destrava 21 te guia pelo método D.R.A.",
+  "hashtags": [
+    "#constancia",
+    "#rotinacorrida",
+    "#habitossaudaveis",
+    "#autocuidado",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_11_20_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "enquete",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Placar semanal do habito em vez de dias seguidos",
+    "uso": {
+      "entrada": 4710,
+      "saida": 2983,
+      "cache_lido": 0,
+      "custo_usd": 0.0981,
+      "tentativas": 1
+    }
+  },
+  "brief": "content/briefs/2026_11_20_corpo.yaml",
+  "gerado_em": "2026-11-20T10:02:21"
+}
