@@ -1,0 +1,105 @@
+{
+  "data": "2026_11_21",
+  "data_iso": "2026-11-21",
+  "linha": "corpo",
+  "linha_nome": "Corpo",
+  "variante_capa": "B",
+  "capa_fundo": "wash3",
+  "capa_cores": {
+    "fundo": "wash3",
+    "titulo": "campo",
+    "corpo": "ink"
+  },
+  "carrossel": [
+    {
+      "arquivo": "2026_11_21_-_Carrossel_Corpo_01.png",
+      "tipo": "Carrossel",
+      "papel": "capa B",
+      "alt": "Lamina com fundo wash3 da linha Corpo e titulo em campo sobre o cansaco que comeca na porta de casa.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_21_-_Carrossel_Corpo_02.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo wash1 bem claro com titulo em campo profundo explicando por que a troca de papeis sem intervalo cansa.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_21_-_Carrossel_Corpo_03.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo wash1 bem claro com titulo em campo profundo e lista de tres passos para a transicao de tres minutos.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_21_-_Carrossel_Corpo_04.png",
+      "tipo": "Carrossel",
+      "papel": "miolo",
+      "alt": "Lamina de fundo wash1 bem claro com titulo em campo profundo mostrando a versao curta do ritual para dias ruins.",
+      "foto": null
+    },
+    {
+      "arquivo": "2026_11_21_-_Carrossel_Corpo_05.png",
+      "tipo": "Carrossel",
+      "papel": "cta",
+      "alt": "Lamina de fundo campo profundo com texto creme e botao no acento convidando a conhecer o Destrava 21.",
+      "foto": null
+    }
+  ],
+  "stories": [
+    {
+      "arquivo": "2026_11_21_-_Stories_Corpo_01.png",
+      "tipo": "Stories",
+      "papel": "stories post do dia",
+      "alt": "Story com fundo wash3 da linha Corpo e titulo em campo convidando a ver o carrossel no feed.",
+      "foto": null,
+      "link": null,
+      "link_nota": "post do dia (permalink em publicado.json depois de publicar)",
+      "sticker": "emoji slider"
+    },
+    {
+      "arquivo": "2026_11_21_-_Stories_Corpo_02.png",
+      "tipo": "Stories",
+      "papel": "stories oferta",
+      "alt": "Stories em fundo verde profundo apresentando o programa Destrava 21 Mulheres com o endereço da página em destaque no chip coral.",
+      "foto": null,
+      "link": "https://destravaco.com.br/d21-mulheres-inicial/",
+      "sticker": "link"
+    }
+  ],
+  "legenda": "Transicao entre trabalho e casa: tres minutos mudam a noite inteira.\nQuando nao existe intervalo entre um papel e outro, voce atravessa a porta ainda resolvendo a ultima tarefa do dia.\n\nO ritual e simples: parar antes de entrar, respirar devagar contando ate quatro por seis vezes e escolher uma unica coisa pra fazer primeiro dentro de casa.\n\nNos dias em que tudo desandou, fique so na respiracao. Trinta segundos ja sao um aviso ao corpo de que o turno virou.\n\nSalva pra lembrar na saida de hoje e compartilha com uma amiga que chega em casa no piloto automatico. Se quiser construir isso com um passo a passo, o Destrava 21 te acompanha.",
+  "hashtags": [
+    "#rotinacorrida",
+    "#autocuidado",
+    "#constancia",
+    "#bemestarfeminino",
+    "#mulheresreais"
+  ],
+  "legenda_arquivo": "2026_11_21_-_Legenda_Corpo.txt",
+  "sticker_sugestao": "emoji slider",
+  "stories_oferta": {
+    "titulo": "Destrava 21 Mulheres",
+    "link": "https://destravaco.com.br/d21-mulheres-inicial/"
+  },
+  "cta": {
+    "oferta": "Destrava 21 (método D.R.A.)",
+    "botao": "LINK NA BIO",
+    "link": "https://cfjo70.atoms.world",
+    "preco": "R$37,90"
+  },
+  "foto": null,
+  "roteiro": {
+    "gerado_por": "claude-opus-5",
+    "angulo": "Ritual de tres minutos na virada de turno do dia",
+    "uso": {
+      "entrada": 9512,
+      "saida": 5625,
+      "cache_lido": 3941,
+      "custo_usd": 0.1882,
+      "tentativas": 2
+    }
+  },
+  "brief": "content/briefs/2026_11_21_corpo.yaml",
+  "gerado_em": "2026-11-21T10:02:57"
+}

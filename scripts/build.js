@@ -33,6 +33,9 @@ const render = (tpl, map) =>
 
 fs.rmSync(DIST, { recursive: true, force: true });
 fs.mkdirSync(DIST, { recursive: true });
+// [fabrica-instagram] copia public/ (peças do Instagram em /content/AAAA_MM_DD/) pra dist/ — gerido por fabrica-instagram/publicar/hospedar.py
+const PUBLIC = path.join(ROOT, 'public');
+if (fs.existsSync(PUBLIC)) fs.cpSync(PUBLIC, DIST, { recursive: true });
 
 const produtosDir = path.join(ROOT, 'produtos');
 const pastas = fs.readdirSync(produtosDir).filter((d) =>
